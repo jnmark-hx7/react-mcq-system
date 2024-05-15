@@ -9,7 +9,7 @@ This system includes :<br/>
 - [x] Result Tracking: The system tracks user performance, providing detailed results and analytics.
 
 <br/>
-Preview:
+Preview:<br/>
 ![Preview Image of MCQ system](preview.png "Preview image")
 
 ## Installation
