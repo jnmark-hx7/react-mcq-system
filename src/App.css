@@ -1,0 +1,115 @@
+.App {
+    /* background-color:#13294B;  */
+    background-color: #004042;
+    width: 100vw;
+    height: 100vh;
+}
+
+.AU{
+    background-color: rgba(0, 0, 0, 0.3);
+    position:fixed;
+    margin:auto;
+    width:100%;
+    height: 100vh;
+    /* inset:0; */
+    /* display:flex;
+    justify-content: center;
+    align-items: flex-start; */
+}
+.AU > .template{
+    margin: 50px 0 0 0;
+    height:30vh;
+    width:45%;
+    max-width:460px;
+    transform: translate(0,-18vh);
+    background-color: white;
+    position: absolute; 
+    margin: auto;
+    inset: 0;
+    border-radius: 6px;
+    filter: drop-shadow(0px 0px 42px rgb(0, 0, 0,0.5));
+    display:grid;
+    grid-template-rows: 80% 20%;
+}
+
+.template > .upper--wrapper, 
+.template > .lower--wrapper{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px dashed green; */
+    font-size:20px;
+}
+.template > .lower--wrapper{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+.App > .wrapper,
+.App > .single{
+    /* Visualization only */
+    /* border: 4px dashed black; */
+    /* background-color: gainsboro; */
+
+    /* Making the items align and justify center using position absolute */
+    position:absolute;
+    inset:0;
+    margin: auto;
+
+    /* Must setup width and height */
+    width: 50%; height: 75vh; /* Here make responsive layout for wrapper*/
+    max-width: 940px;
+
+
+    
+
+}
+
+.App > .wrapper{
+    /* Section this into two section using grid */
+    display:grid;
+    grid-template-columns: 70% auto;
+    grid-gap:1em;
+}
+
+.single > .template{
+    border-radius: 6px;
+    filter: drop-shadow(0px 0px 42px rgb(0, 0, 0,0.5));
+    background: whitesmoke;
+    width:100%;
+    height:100%;
+    flex-direction: column;
+
+}
+
+.template > ol{
+    /* list-style: none; */
+    /* border: 3px dashed green; */
+    font-size: 20px;
+}
+
+.template > ol > li{
+    margin: 10px 0 0 0;
+    padding: 10px;
+}
+.template > ol > li:nth-child(1),
+.template > ol > li:nth-last-child(1){
+    list-style: none;
+    text-indent: -30px;
+}
+.template > ol > li:nth-child(1) > span{
+    font-size: 1.0em;
+    font-weight: 600;
+    color:white;
+    background-color:var(--theme-color-g-6);
+    padding:4px;
+    border-radius: 6px;
+}
+.template > ol > li:nth-last-child(1){
+    /* background: blue; */
+    margin: 20px 20px 0 0;
+    display: flex;
+    justify-content: flex-end;
+}

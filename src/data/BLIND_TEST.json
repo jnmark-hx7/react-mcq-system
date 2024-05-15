@@ -1,0 +1,496 @@
+[
+  {
+    "id": 1,
+    "question": "Apakah nombor yang ditunjukkan dalam gambar tersebut?",
+    "image": "DUA",
+    "mcq": [
+      {
+        "ans": "2",
+        "img": "none"
+      },
+      {
+        "ans": "6",
+        "img": "none"
+      },
+      {
+        "ans": "8",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Apakah nombor yang ditunjukkan dalam gambar tersebut?",
+    "image": "SEPULUH",
+    "mcq": [
+      {
+        "ans": "10 ",
+        "img": "none"
+      },
+      {
+        "ans": "3 ",
+        "img": "none"
+      },
+      {
+        "ans": "2 ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Apakah nombor yang ditunjukkan dalam gambar tersebut?",
+    "image": "SEMBILAN",
+    "mcq": [
+      {
+        "ans": "9 ",
+        "img": "none"
+      },
+      {
+        "ans": "7 ",
+        "img": "none"
+      },
+      {
+        "ans": "8 ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Apakah nombor yang ditunjukkan dalam gambar tersebut?",
+    "image": "LIMA_A",
+    "mcq": [
+      {
+        "ans": "4 ",
+        "img": "none"
+      },
+      {
+        "ans": "2 ",
+        "img": "none"
+      },
+      {
+        "ans": "5 ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Apakah nombor yang ditunjukkan dalam gambar tersebut?",
+    "image": "LIMA_B",
+    "mcq": [
+      {
+        "ans": "6 ",
+        "img": "none"
+      },
+      {
+        "ans": "5 ",
+        "img": "none"
+      },
+      {
+        "ans": "8 ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Apakah nombor yang ditunjukkan dalam gambar tersebut?",
+    "image": "LIMA_ENAM",
+    "mcq": [
+      {
+        "ans": "46 ",
+        "img": "none"
+      },
+      {
+        "ans": "56 ",
+        "img": "none"
+      },
+      {
+        "ans": "55 ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Apakah nombor yang ditunjukkan dalam gambar tersebut?",
+    "image": "DUA_SEMBILAN",
+    "mcq": [
+      {
+        "ans": "26 ",
+        "img": "none"
+      },
+      {
+        "ans": "23 ",
+        "img": "none"
+      },
+      {
+        "ans": "29 ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Apakah nombor yang ditunjukkan dalam gambar tersebut?",
+    "image": "EMPAT_LIMA",
+    "mcq": [
+      {
+        "ans": "44 ",
+        "img": "none"
+      },
+      {
+        "ans": "55 ",
+        "img": "none"
+      },
+      {
+        "ans": "45 ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Apakah nombor yang ditunjukkan dalam gambar tersebut?",
+    "image": "LAPAN_A",
+    "mcq": [
+      {
+        "ans": "9 ",
+        "img": "none"
+      },
+      {
+        "ans": "8 ",
+        "img": "none"
+      },
+      {
+        "ans": "3 ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Apakah nombor yang ditunjukkan dalam gambar tersebut?",
+    "image": "DUA_LIMA",
+    "mcq": [
+      {
+        "ans": "22 ",
+        "img": "none"
+      },
+      {
+        "ans": "23 ",
+        "img": "none"
+      },
+      {
+        "ans": "25 ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Apakah nombor yang ditunjukkan dalam gambar tersebut?",
+    "image": "ENAM",
+    "mcq": [
+      {
+        "ans": "6 ",
+        "img": "none"
+      },
+      {
+        "ans": "5 ",
+        "img": "none"
+      },
+      {
+        "ans": "3 ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Apakah nombor yang ditunjukkan dalam gambar tersebut?",
+    "image": "DUA_BELAS",
+    "mcq": [
+      {
+        "ans": "12 ",
+        "img": "none"
+      },
+      {
+        "ans": "16 ",
+        "img": "none"
+      },
+      {
+        "ans": "19 ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Apakah nombor yang ditunjukkan dalam gambar tersebut?",
+    "image": "TUJUH_EMPAT",
+    "mcq": [
+      {
+        "ans": "84 ",
+        "img": "none"
+      },
+      {
+        "ans": "24 ",
+        "img": "none"
+      },
+      {
+        "ans": "74 ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Apakah nombor yang ditunjukkan dalam gambar tersebut?",
+    "image": "LAPAN_B",
+    "mcq": [
+      {
+        "ans": "9 ",
+        "img": "none"
+      },
+      {
+        "ans": "8 ",
+        "img": "none"
+      },
+      {
+        "ans": "5 ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Apakah bentuk yang ditunjukkan dalam gambar tersebut?",
+    "image": "G_KAPAL",
+    "mcq": [
+      {
+        "ans": "Bulat ",
+        "img": "none"
+      },
+      {
+        "ans": "Segitiga ",
+        "img": "none"
+      },
+      {
+        "ans": "Kapal ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Apakah bentuk yang ditunjukkan dalam gambar tersebut?",
+    "image": "G_S4B",
+    "mcq": [
+      {
+        "ans": "Segiempat sama dan Bulat ",
+        "img": "none"
+      },
+      {
+        "ans": "Segitiga dan Bulat ",
+        "img": "none"
+      },
+      {
+        "ans": "Segiempat dan Segitiga ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Apakah bentuk yang ditunjukkan dalam gambar tersebut?",
+    "image": "G_BBS",
+    "mcq": [
+      {
+        "ans": "Bintang-Segiempat dan Bulat ",
+        "img": "none"
+      },
+      {
+        "ans": "Bintang-Bintang dan Segitiga ",
+        "img": "none"
+      },
+      {
+        "ans": "Bulat-Bulat dan Segiempat sama ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Apakah huruf dan nombor yang ditunjukkan dalam gambar tersebut?",
+    "image": "PLAT_BJC",
+    "mcq": [
+      {
+        "ans": "BJC 9680 ",
+        "img": "none"
+      },
+      {
+        "ans": "BJC 8690 ",
+        "img": "none"
+      },
+      {
+        "ans": "BJJ 3830 ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Apakah huruf dan nombor yang ditunjukkan dalam gambar tersebut?",
+    "image": "PLAT_OM",
+    "mcq": [
+      {
+        "ans": "ON 1969 ",
+        "img": "none"
+      },
+      {
+        "ans": "OM 1676 ",
+        "img": "none"
+      },
+      {
+        "ans": "OM 1776 ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Apakah huruf dan nombor yang ditunjukkan dalam gambar tersebut?",
+    "image": "PLAT_WJC",
+    "mcq": [
+      {
+        "ans": "WCJ 8705 ",
+        "img": "none"
+      },
+      {
+        "ans": "WCJ 3705 ",
+        "img": "none"
+      },
+      {
+        "ans": "WJC 8705 ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Apakah huruf dan nombor yang ditunjukkan dalam gambar tersebut?",
+    "image": "PLAT_WHH",
+    "mcq": [
+      {
+        "ans": "WJC 3700 ",
+        "img": "none"
+      },
+      {
+        "ans": "WHH 8960 ",
+        "img": "none"
+      },
+      {
+        "ans": "WHH 8850 ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Apakah huruf dan nombor yang ditunjukkan dalam gambar tersebut?",
+    "image": "PLAT_WJH",
+    "mcq": [
+      {
+        "ans": "WHJ 713 ",
+        "img": "none"
+      },
+      {
+        "ans": "WJH 718 ",
+        "img": "none"
+      },
+      {
+        "ans": "WJK 218 ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Apakah warna yang ditunjukkan dalam gambar tersebut?",
+    "image": "MERAH",
+    "mcq": [
+      {
+        "ans": "Biru ",
+        "img": "none"
+      },
+      {
+        "ans": "Merah ",
+        "img": "none"
+      },
+      {
+        "ans": "Putih ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Apakah warna yang ditunjukkan dalam gambar tersebut?",
+    "image": "KUNING",
+    "mcq": [
+      {
+        "ans": "Hitam ",
+        "img": "none"
+      },
+      {
+        "ans": "Kelabu ",
+        "img": "none"
+      },
+      {
+        "ans": "Kuning ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Apakah warna yang ditunjukkan dalam gambar tersebut?",
+    "image": "HIJAU",
+    "mcq": [
+      {
+        "ans": "Putih ",
+        "img": "none"
+      },
+      {
+        "ans": "Merah ",
+        "img": "none"
+      },
+      {
+        "ans": "Hijau ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Apakah warna yang ditunjukkan dalam gambar tersebut?",
+    "image": "BIRU",
+    "mcq": [
+      {
+        "ans": "Biru ",
+        "img": "none"
+      },
+      {
+        "ans": "Hitam ",
+        "img": "none"
+      },
+      {
+        "ans": "Putih ",
+        "img": "none"
+      }
+    ]
+  }
+]

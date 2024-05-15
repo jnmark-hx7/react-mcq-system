@@ -1,0 +1,188 @@
+.Main > .wrapper {
+  width: 100%;
+  height: 100%;
+  display: grid;
+  grid-template-rows: 70vh 5%;
+  grid-gap: 1em;
+}
+
+/* For visualize the partitioned part of the child component */
+.Main > .wrapper > .main--section--wrapper {
+  border-radius: 6px;
+  filter: drop-shadow(0px 0px 42px rgb(0, 0, 0, 0.5));
+  background: whitesmoke;
+}
+.Main > .wrapper > .low--section-wrapper {
+  height: 20px;
+}
+
+/* Second wrapper for the main section */
+.main--section--wrapper {
+  display: grid;
+  grid-template-rows: 55% 40%;
+}
+.main--section--wrapper > .display--section-wrapper {
+  position: relative;
+  /* border: 2px dashed green; */
+  border-radius: 6px;
+  /* background-color: yellow; */
+  flex-direction: column;
+  padding: 0.6em;
+}
+.display--section-wrapper > .header {
+  /* background-color: blue; */
+  width: 100%;
+  height: 30px;
+  display: flex;
+  justify-content: space-between;
+
+  position: absolute;
+  inset: 0;
+  margin: 10px 0 0 0;
+}
+.display--section-wrapper > .header > span {
+  margin: 0 10px;
+  font-size: 1.2em;
+  font-weight: 600;
+  color: white;
+  background-color: var(--theme-color-g-6);
+  padding: 4px;
+  border-radius: 6px;
+}
+.display--section-wrapper > .question--display {
+  margin: 1em;
+  font-size: 0.5em;
+  font-weight: 600;
+  font-size: 1.125em;
+}
+
+/* This is for image in the dispaly section only */
+.display--section-wrapper > .image--display-wrapper {
+  width: 35%;
+  height: 50%;
+  margin: 1em 0 0 0;
+  border: 2px dashed green;
+}
+/* .image--only > .image--display-wrapper{
+    position: absolute;
+    inset: 0;
+    margin:auto;
+    width:90%;
+    height: 90%;
+    border: 2px dashed green;
+} */
+
+/* Adjust the layout button */
+.main--section--wrapper > .btn--section-wrapper {
+  /* border: 2px dashed green; */
+
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  /* flex-direction: column; */
+}
+.btn--section-wrapper > button {
+  width: 90%;
+  font-size: 0.97em;
+  text-align: left;
+  padding: 0.95em;
+}
+
+.btn--section-wrapper > .answered {
+  background-color: rgb(64, 197, 64);
+}
+/* This is for changing the size of the button when image existed */
+.btn--section-wrapper > .active {
+  width: 28%;
+  height: 50%;
+}
+
+/* For display image only */
+.btn--section-wrapper > .active > .image--only {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border: 2px dashed green;
+}
+
+/* Making text changing its font size on different state of screen window */
+@media (max-width: 1480px) {
+  .btn--section-wrapper > button {
+    font-size: 0.675em;
+  }
+}
+@media (max-width: 900px) {
+  .btn--section-wrapper > button {
+    font-size: 0.475em;
+  }
+}
+@media (max-width: 400px) {
+  .btn--section-wrapper > button {
+    font-size: 0.3em;
+  }
+}
+/* .Main{
+    position:absolute;
+    inset:0;
+    margin:auto;
+    display:flex;
+    padding: 10px;
+    width: 60vw;
+    height: 75vh;
+}
+
+.Main > .container {
+    width: 80%;
+    height: auto;
+    margin-right: 5%;
+}
+
+.Main > .container > .main_section{
+    border-radius: 6px;
+    background: rgb(252, 250, 250);
+    filter: drop-shadow(12px 12px 10px rgb(0, 0, 0,25%));
+  
+    width: 100%;    
+    height: 80%;
+    flex-direction: column;
+ 
+}
+.main_section > header{
+ 
+    width:100%;
+    height:45%;
+
+}
+
+
+.main_section > header > div:nth-child(1){
+    position: fixed;
+    inset:0;
+    margin: 10px 0 0 10px;
+}
+.main_section > header > div:nth-child(2){
+   font-size: 1.2em;
+   width:30%;
+   height:70%;
+}
+
+.main_section > header >div:nth-child(1)> span{
+    font-size: 1.2em;
+    font-weight: 600;
+    color:white;
+    background-color:var(--theme-color-cyan);
+    padding:4px;
+    border-radius: 6px;
+}
+.Btn--wrapper{
+    padding:2%;
+    flex-wrap: wrap;
+    width:100%;
+    height:auto;
+}
+.Main > .container > .main_section > .Btn--wrapper > button{
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    padding: 1.2em;
+    margin: 1.2% 1%;
+} */

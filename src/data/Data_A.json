@@ -1,0 +1,2605 @@
+[
+  {
+    "id": 1,
+    "question": "Apakah tindakan yang diambil untuk mengelakkan kemalangan apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "LIKU_KIRI",
+    "mcq": [
+      {
+        "ans": "Perlahankan kenderaan dan gunakan lorong kanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memecutkan kenderaan dan gunakan lampu tinggi ",
+        "img": "none"
+      },
+      {
+        "ans": "Perlahankan kenderaan dan gunakan gear rendah ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "TANDA_BAS",
+    "mcq": [
+      {
+        "ans": "Kawasan meletak Basikal ",
+        "img": "none"
+      },
+      {
+        "ans": "Kawasan menaiki Teksi ",
+        "img": "none"
+      },
+      {
+        "ans": "Perhentian Bas ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "HAD_LEBAR_2_5M",
+    "mcq": [
+      {
+        "ans": "Kenderaan yang tidak melebihi had lebar dilarang masuk ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan yang melebihi had lebar dilarang masuk ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan yang melebihi had lebar dibenarkan masuk ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "BELOK_KIRI",
+    "mcq": [
+      {
+        "ans": "Tanda arah selekoh ke kanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Tanda arah selekoh ke kiri ",
+        "img": "none"
+      },
+      {
+        "ans": "Belok kanan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "JALAN_LURUS",
+    "mcq": [
+      {
+        "ans": "Naik bukit ",
+        "img": "none"
+      },
+      {
+        "ans": "Ikut arah anak panah ",
+        "img": "none"
+      },
+      {
+        "ans": "Jangan belok ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "LALU_LINTAS_DUA_HALA",
+    "mcq": [
+      {
+        "ans": "Jalan dua hala ",
+        "img": "none"
+      },
+      {
+        "ans": "Jalan ulang-alik ",
+        "img": "none"
+      },
+      {
+        "ans": "Lorong mendaki ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "DILARANG_GUNA_MOTOSIKAL",
+    "mcq": [
+      {
+        "ans": "Motosikal dilarang masuk ",
+        "img": "none"
+      },
+      {
+        "ans": "Motosikal dilarang menggunakan lorong ini ",
+        "img": "none"
+      },
+      {
+        "ans": "Motosikal dibenarkan masuk ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "STESEN_MINYAK_HDPN",
+    "mcq": [
+      {
+        "ans": "Kedai runcit ",
+        "img": "none"
+      },
+      {
+        "ans": "Stesen minyak ",
+        "img": "none"
+      },
+      {
+        "ans": "Tempat perhentian kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "JAMBATAN_SEMPIT",
+    "mcq": [
+      {
+        "ans": "Jejantas di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Sungai di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Jambatan sempit di hadapan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Apakah tanda isyarat lalu lintas untuk Tempat Meletak Kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "TANDA_BAS"
+      },
+      {
+        "ans": "image",
+        "img": "DILARANG_BERHENTI"
+      },
+      {
+        "ans": "image",
+        "img": "PARKING"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Apakah tanda isyarat lalu lintas untuk Lalu Lintas Dua Hala?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "LALU_LINTAS_DUA_HALA"
+      },
+      {
+        "ans": "image",
+        "img": "LORONG_MENURUN_2_LRG"
+      },
+      {
+        "ans": "image",
+        "img": "PEMBAHAGI_JLN_TAMAT"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Apakah tanda isyarat lalu lintas untuk Larangan Masuk Bagi Beca, Kereta Lembu, Basikal Dan Kenderaan Roda Tiga?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "KWSN_MOTOSIKAL"
+      },
+      {
+        "ans": "image",
+        "img": "KWSN_BASIKAL"
+      },
+      {
+        "ans": "image",
+        "img": "DILARANG_BLBRT_KENDARAAN"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Apakah tanda isyarat lalu lintas untuk lorong mendaki?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "LORONG_MENDAKI_2_LRG"
+      },
+      {
+        "ans": "image",
+        "img": "PEMBAHAGI_JLN_HDPN"
+      },
+      {
+        "ans": "image",
+        "img": "PEMBAHAGI_JLN_TAMAT"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Apakah tanda isyarat lalu lintas untuk menunjukkan Maklumat Mengenai Jarak?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "TANDA_ARAH_KAJANG"
+      },
+      {
+        "ans": "image",
+        "img": "TANDA_ARAH_WP_KL"
+      },
+      {
+        "ans": "image",
+        "img": "TANDA_JARAK_PASIR_GUDANG"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Apakah tanda isyarat lalu lintas untuk Dilarang Berpusing Balik?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "DILARANG_BELOK_KANAN"
+      },
+      {
+        "ans": "image",
+        "img": "KWSN_PUSINGAN_U"
+      },
+      {
+        "ans": "image",
+        "img": "DILARANG_PUSINGAN_U"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "KWSN_KANAK_MELINTAS",
+    "mcq": [
+      {
+        "ans": "Kawasan Melintas ",
+        "img": "none"
+      },
+      {
+        "ans": "Kawasan Kanak-kanak Sekolah Melintas ",
+        "img": "none"
+      },
+      {
+        "ans": "Kawasan Bersiar-siar ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "ZON_TUNDA",
+    "mcq": [
+      {
+        "ans": "Zon Kenderaan Rosak ",
+        "img": "none"
+      },
+      {
+        "ans": "Tempat menunggu kereta tunda ",
+        "img": "none"
+      },
+      {
+        "ans": "Zon Tunda ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "ANGIN_LINTANG",
+    "mcq": [
+      {
+        "ans": "Kawasan Angin Lintang ",
+        "img": "none"
+      },
+      {
+        "ans": "Kawasan Memancing ",
+        "img": "none"
+      },
+      {
+        "ans": "Kawasan Bermain Layang-layang ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Apakah tindakan yang diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "TANDA_BERI_LALUAN",
+    "mcq": [
+      {
+        "ans": "Perlahankan kenderaan dan berikan laluan kepada kenderaan yang datang dari arah kanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memecutkan kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Berikan laluan kepada pejalan kaki ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Apakah maksud dan tindakan yang perlu diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "KWSN_TANAH_RUNTUH",
+    "mcq": [
+      {
+        "ans": "Kawasan Meluncur; Memecutkan kendaraan apabila melalui kawasan ini ",
+        "img": "none"
+      },
+      {
+        "ans": "Kawasan Tanah Runtuh; berhati-hati apabila melalui kawasan ini ",
+        "img": "none"
+      },
+      {
+        "ans": "Kawasan Mendaki; Perlahankan kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "KWSN_PEJALAN_KAKI",
+    "mcq": [
+      {
+        "ans": "Lintasan Pejalan Kaki ",
+        "img": "none"
+      },
+      {
+        "ans": "Kawasan Bersiar-siar ",
+        "img": "none"
+      },
+      {
+        "ans": "Lintasan Budak Sekolah  ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "KWSN_OKU",
+    "mcq": [
+      {
+        "ans": "Tempat meletak kenderaan orang cacat ",
+        "img": "none"
+      },
+      {
+        "ans": "Tempat duduk orang cacat ",
+        "img": "none"
+      },
+      {
+        "ans": "Lintasan orang cacat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "BELOK_KANAN",
+    "mcq": [
+      {
+        "ans": "Pusing kiri ",
+        "img": "none"
+      },
+      {
+        "ans": "Tanda arah selekoh ke kanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Ikut kanan untuk memotong ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Apakah tanda isyarat lalu lintas yang betul bagi tindakan berikut: i) Perlahankan kenderaan ii) Tukar kepada gear rendah iii) Selekoh merbahaya di hadapan. ",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "TANDA_ARAH_KIRI_KANAN"
+      },
+      {
+        "ans": "image",
+        "img": "JALAN_SEMPIT_2_HALUAN"
+      },
+      {
+        "ans": "image",
+        "img": "LIKU_TAJAM"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "KWSN_BASIKAL",
+    "mcq": [
+      {
+        "ans": "Kedai basikal di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Basikal dibenarkan menggunakan lorong ini ",
+        "img": "none"
+      },
+      {
+        "ans": "Basikal dilarang masuk ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Apakah tanda isyarat lalu lintas yang betul bagi tindakan berikut: i) Berikan isyarat awal ii) Lihat cermin pandang belakang iii) Buat pusingan balik",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "DILARANG_BLBRT_KENDARAAN"
+      },
+      {
+        "ans": "image",
+        "img": "LIKU_TAJAM"
+      },
+      {
+        "ans": "image",
+        "img": "KWSN_PUSINGAN_U"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "KWSN_MEDIK_PBSM",
+    "mcq": [
+      {
+        "ans": "Tempat letak ambulans ",
+        "img": "none"
+      },
+      {
+        "ans": "Pusat kesihatan ",
+        "img": "none"
+      },
+      {
+        "ans": "Klinik gigi ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Apakah tanda isyarat lalu lintas untuk Dilarang Berhenti?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "DILARANG_BERHENTI"
+      },
+      {
+        "ans": "image",
+        "img": "HALANGAN_HDPN"
+      },
+      {
+        "ans": "image",
+        "img": "DILARANG_MARKIR_KERETA"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Apakah tanda isyarat lalu lintas untuk Jalan Terus Atau Ke Kanan Sahaja?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "JALAN_LURUS"
+      },
+      {
+        "ans": "image",
+        "img": "ARAH_KANAN"
+      },
+      {
+        "ans": "image",
+        "img": "ARAH_KANAN_LURUS"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Apakah tanda isyarat lalu lintas untuk Tanah Runtuh?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "KWSN_TANAH_RUNTUH"
+      },
+      {
+        "ans": "image",
+        "img": "JALAN_SEMPIT_2_HALUAN"
+      },
+      {
+        "ans": "image",
+        "img": "LENCONGAN_KIRI"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Apakah tanda isyarat lalu lintas yang betul bagi tindakan berikut: i) Pemandu yang menghampiri kawasan ini dikehendaki berhenti ii) Padang ke kiri dan ke kanan iii) Teruskan perjalanan seperti biasa jika tiada kenderaan",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "SIMPANG_CABANG_KANAN"
+      },
+      {
+        "ans": "image",
+        "img": "SIMPANG_EMPAT"
+      },
+      {
+        "ans": "image",
+        "img": "SIMPANG_T"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "HAD_MUATAN_TIDAK_LEBIH_8T",
+    "mcq": [
+      {
+        "ans": "Berat kenderaan yang melebihi 8 tan sahaja dibenarkan melalui jalan ini ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan yang beratnya tidak melebihi 8 tan sahaja dibenarkan melalui jalan ini ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan yang membawa muatan tidak melebihi 8 tan dilarang melalui jalan ini ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Apakah tindakan yang diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "JALAN_SEMPIT_2_HALUAN",
+    "mcq": [
+      {
+        "ans": "Perlahankan kenderaan dan berikan laluan kepada pejalan kaki ",
+        "img": "none"
+      },
+      {
+        "ans": "Memecutkan kenderaan dan memotong kenderaan di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Perlahankan kenderaan dan berikan laluan kepada kenderaan dari arah hadapan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "BONGGOL",
+    "mcq": [
+      {
+        "ans": "Gunung di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Tempat membaca buku di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Jalan Tidak Rata ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "DILARANG_BELOK_KANAN",
+    "mcq": [
+      {
+        "ans": "Berhenti ",
+        "img": "none"
+      },
+      {
+        "ans": "Belok ke kanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Dilarang Membelok ke Kanan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Apakah tindakan yang diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "DILARANG_MEMOTONG",
+    "mcq": [
+      {
+        "ans": "Jalan dua hala ",
+        "img": "none"
+      },
+      {
+        "ans": "Dilarang memotong kenderaan di kawasan ini ",
+        "img": "none"
+      },
+      {
+        "ans": "Kawasan memotong kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "JALAN_LICIN",
+    "mcq": [
+      {
+        "ans": "Jalan melumba ",
+        "img": "none"
+      },
+      {
+        "ans": "Jalan licin ",
+        "img": "none"
+      },
+      {
+        "ans": "Jalan pemandu mabuk ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "LORONG_TENGAH_HDPN_TUTUP",
+    "mcq": [
+      {
+        "ans": "Jalan tiga hala ",
+        "img": "none"
+      },
+      {
+        "ans": "Lorong tengah ditutup kepada lalu lintas ",
+        "img": "none"
+      },
+      {
+        "ans": "Lorong tengah untuk letak kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "KWSN_TIMBANG",
+    "mcq": [
+      {
+        "ans": "Stesen jambatan timbang ",
+        "img": "none"
+      },
+      {
+        "ans": "Lorong lori sahaja ",
+        "img": "none"
+      },
+      {
+        "ans": "Stesen kereta api ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Apakah tanda isyarat lalu lintas yang betul bagi tindakan berikut: i) Memperlahankan kenderaan ii) Memberikan tumpuan pada pemanduan iii) Bersiapa sedia untuk menggunakan brek pada bila-bila masa",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "PARKING"
+      },
+      {
+        "ans": "image",
+        "img": "AWAS"
+      },
+      {
+        "ans": "image",
+        "img": "DILARANG_MASUK"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Apakah tindakan yang diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "G_NOTIS_KANAK_MELINTAS",
+    "mcq": [
+      {
+        "ans": "Bunyikan hon dan berhenti ",
+        "img": "none"
+      },
+      {
+        "ans": "Tambah kelajuan dan teruskan perjalanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Perlahankan kenderaan, berhati-hati dan ikut arahan warden lalu lintas ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "TANDA_BERHENTI_HDPN",
+    "mcq": [
+      {
+        "ans": "Jalan terus ",
+        "img": "none"
+      },
+      {
+        "ans": "Papan tanda berhenti di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Lampu isyarat di hadapan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Apakah tanda isyarat lalu lintas untuk Jalan Mati?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "DILARANG_MASUK"
+      },
+      {
+        "ans": "image",
+        "img": "KWSN_PUSINGAN_U"
+      },
+      {
+        "ans": "image",
+        "img": "JALAN_MATI"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Apakah tanda isyarat lalu lintas yang betul bagi tindakan berikut: i) Berhenti di lorong yang betul ii) Memandu dengan berhati-hati iii) Memberikan isyarat sebelum membelok iv) Mengawasi kenderaan keluar dan masuk di persimpangan",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "JALAN_SEMAKIN_SEMPIT"
+      },
+      {
+        "ans": "image",
+        "img": "BAHU_JALAN_LEMBUT"
+      },
+      {
+        "ans": "image",
+        "img": "SIMPANG_EMPAT"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Apakah tanda isyarat lalu lintas untuk Melarang Kenderaan Yang Melebihi Had berat Melalui Sesuatu Jalan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "HAD_MUATAN_TIDAK_LEBIH_8T"
+      },
+      {
+        "ans": "image",
+        "img": "HAD_TINGGI_3_5_M"
+      },
+      {
+        "ans": "image",
+        "img": "HAD_LEBAR_2_5M"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Apakah tindakan yang betul apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "KWSN_MEDIK_PBSM",
+    "mcq": [
+      {
+        "ans": "Tidak boleh membunyikan hon ",
+        "img": "none"
+      },
+      {
+        "ans": "Berikan keutamaan kepada perjalan kaki ",
+        "img": "none"
+      },
+      {
+        "ans": "Letakkan kenderaan di pintu masuk hospital ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "AWAS",
+    "mcq": [
+      {
+        "ans": "Bahaya-bahaya Lain ",
+        "img": "none"
+      },
+      {
+        "ans": "Tambah kelajuan ",
+        "img": "none"
+      },
+      {
+        "ans": "Amaran ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "LORONG_KIRI_HDPN_TUTUP",
+    "mcq": [
+      {
+        "ans": "Lorong kiri ditutup untuk meletak kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Lorong kiri ditutup kepada lalu lintas ",
+        "img": "none"
+      },
+      {
+        "ans": "Jalan terus sahaja ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Apakah tindakan yang diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "TANDA_BERHENTI",
+    "mcq": [
+      {
+        "ans": "Berhenti segera ",
+        "img": "none"
+      },
+      {
+        "ans": "Berhenti sebelum garisan putih ",
+        "img": "none"
+      },
+      {
+        "ans": "Berhenti apabila lampu merah ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Apakah tindakan yang diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "SIMPANG_CABANG_KANAN",
+    "mcq": [
+      {
+        "ans": "Tekan hon dan belok kanan dengan laju ",
+        "img": "none"
+      },
+      {
+        "ans": "Tambahkan kelajuan apabila belok ke kanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Berikan laluan kepada kenderaan dari arah hadapan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "BAHU_JALAN_LEMBUT",
+    "mcq": [
+      {
+        "ans": "Jalan kenderaan orang cacat ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan rosak di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Bahu Jalan Lembut ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "LALU_LINTAS_GABUNG_KIRI",
+    "mcq": [
+      {
+        "ans": "Persimpangan jalan kecil di sebelah kiri ",
+        "img": "none"
+      },
+      {
+        "ans": "Selekoh ke kiri ",
+        "img": "none"
+      },
+      {
+        "ans": "Persimpangan jalan kecil di sebelah kanan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Apakah tindakan yang diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "G_SIMPANG",
+    "mcq": [
+      {
+        "ans": "Memandu di lorong yang betul ",
+        "img": "none"
+      },
+      {
+        "ans": "Memotong serta-merta ",
+        "img": "none"
+      },
+      {
+        "ans": "Menambahkan kelajuan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Apakah tanda isyarat lalu lintas yang betul bagi tindakan berikut: i) Merancang arah tuju. Ii)Memilih lorong yang betul iii) Memperlahankan kenderaan iv) Memberikan keutamaan kepada kenderaan dari arah kanan.",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "JALAN_TIDAK_RATA"
+      },
+      {
+        "ans": "image",
+        "img": "PUSINGAN_BULATAN"
+      },
+      {
+        "ans": "image",
+        "img": "LAMPU_ISYARAT"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Apakah tanda isyarat lalu lintas untuk Dilarang Masuk?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "HAD_LAJU_TAMAT"
+      },
+      {
+        "ans": "image",
+        "img": "TANDA_BERHENTI"
+      },
+      {
+        "ans": "image",
+        "img": "DILARANG_MASUK"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Apakah tanda isyarat lalu lintas untuk Dilarang Meletakkan Kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "HAD_TINGGI_3_5_M"
+      },
+      {
+        "ans": "image",
+        "img": "DILARANG_MARKIR_KERETA"
+      },
+      {
+        "ans": "image",
+        "img": "DILARANG_MASUK"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Apakah tanda isyarat lalu lintas untuk Had laju Berakhir?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "HAD_LAJU_50"
+      },
+      {
+        "ans": "image",
+        "img": "HAD_TINGGI_3_5_M"
+      },
+      {
+        "ans": "image",
+        "img": "HAD_LAJU_TAMAT"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Di manakah tanda isyarat lalu lintas tersebut boleh ditemui ketika memandu?",
+    "image": "G_LRG_MENDAKI_TANAH_RUNTUH",
+    "mcq": [
+      {
+        "ans": "Kawasan bukit ",
+        "img": "none"
+      },
+      {
+        "ans": "Kawasan kampung ",
+        "img": "none"
+      },
+      {
+        "ans": "Kawasan sekolah ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "TELEFON_800M",
+    "mcq": [
+      {
+        "ans": "Telekom di hadapan 800 meter ",
+        "img": "none"
+      },
+      {
+        "ans": "Telefon Awam Di Hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Kawasan menelefon sambil memandu ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Apakah tindakan yang diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "AWAS",
+    "mcq": [
+      {
+        "ans": "Pecutkan kenderaan, pandu dengan berhati-hati dan memotong kenderaan di hadapan jika perlu ",
+        "img": "none"
+      },
+      {
+        "ans": "Perlahankan kenderaan, pandu dengan berhati-hati dan dilarang memotong ",
+        "img": "none"
+      },
+      {
+        "ans": "Pecutkan kenderaan dan bersedia untuk membuat pusingan balik ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Apakah tanda isyarat lalu lintas untuk Dilarang Meletak Kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "HAD_LAJU_TAMAT"
+      },
+      {
+        "ans": "image",
+        "img": "DILARANG_MASUK"
+      },
+      {
+        "ans": "image",
+        "img": "DILARANG_MARKIR_KERETA"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "KWSN_LEMBU_MELINTAS",
+    "mcq": [
+      {
+        "ans": "Kawasan lembu melintas ",
+        "img": "none"
+      },
+      {
+        "ans": "Kawasan penternakan lembu di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Jalan untuk lembu sahaja ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "LENCONGAN_KIRI",
+    "mcq": [
+      {
+        "ans": "Rintangan Di Hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Belok ke kiri ",
+        "img": "none"
+      },
+      {
+        "ans": "Belok ke kanan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "BONGGOL",
+    "mcq": [
+      {
+        "ans": "Naik bukit ",
+        "img": "none"
+      },
+      {
+        "ans": "Bonggol di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Jalan tidak rata ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "DILARANG_GUNA_MOTOSIKAL",
+    "mcq": [
+      {
+        "ans": "Dilarang meletak motosikal ",
+        "img": "none"
+      },
+      {
+        "ans": "Basikal dilarang masuk ke jalan ini ",
+        "img": "none"
+      },
+      {
+        "ans": "Motosikal dilarang masuk ke jalan ini ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "LIKU_KIRI",
+    "mcq": [
+      {
+        "ans": "Liku ke kiri ",
+        "img": "none"
+      },
+      {
+        "ans": "Liku ke kanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Belok ke kanan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "LALU_LINTAS_GABUNG_KANAN",
+    "mcq": [
+      {
+        "ans": "Selekoh ke kanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Jalan sehala ",
+        "img": "none"
+      },
+      {
+        "ans": "Persimpangan jalan kecil di sebelah kanan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Apakah tindakan yang diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "LAMPU_ISYARAT",
+    "mcq": [
+      {
+        "ans": "Tambahkan kelajuan apabila lampu kuning ",
+        "img": "none"
+      },
+      {
+        "ans": "Tambahkan kelajuan dan berhenti serta-merta apabila lampu merah ",
+        "img": "none"
+      },
+      {
+        "ans": "Perlahankan kenderaan, pandu di lorong yang betul dan patuhi lampu isyarat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Apakah tanda isyarat lalu lintas untuk Dibenarkan berpusing balik?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "KWSN_PUSINGAN_U"
+      },
+      {
+        "ans": "image",
+        "img": "DILARANG_MASUK"
+      },
+      {
+        "ans": "image",
+        "img": "TANDA_BERHENTI"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Apakah tanda isyarat lalu lintas yang betul bagi tindakan berikut: i) Perlahankan kenderaan ii) Berhenti sebelum garisan putih iii) Lihat ke kiri dan ke kanan iv) Teruskan perjalanan apabila tiada kenderaan",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "HAD_LAJU_50"
+      },
+      {
+        "ans": "image",
+        "img": "TANDA_BERHENTI"
+      },
+      {
+        "ans": "image",
+        "img": "HAD_MUATAN_TIDAK_LEBIH_8T"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Apakah tanda isyarat lalu lintas untuk Had Laju Berakhir?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "HAD_LAJU_TAMAT"
+      },
+      {
+        "ans": "image",
+        "img": "DILARANG_MARKIR_KERETA"
+      },
+      {
+        "ans": "image",
+        "img": "DILARANG_MASUK"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Apakah tindakan yang diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "G_JALAN_LICIN_BERULAR",
+    "mcq": [
+      {
+        "ans": "Menyalakan lampu tinggi dan menambahkan kelajuan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memperlahankan kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Membunyikan hon ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Di manakah tanda isyarat lalu lintas tersebut boleh ditemui ketika memandu?",
+    "image": "HAD_TINGGI_3_5_M",
+    "mcq": [
+      {
+        "ans": "Terowong ",
+        "img": "none"
+      },
+      {
+        "ans": "Pantai ",
+        "img": "none"
+      },
+      {
+        "ans": "Bandar ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Apakah tanda isyarat lalu lintas yang betul bagi tindakan berikut: i) Perlahankan kenderaan ii) Berikan isyarat sebelum membelok iii) Boleh membelok ke simpang kanan atau kiri",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "SIMPANG_KIRI_KANAN"
+      },
+      {
+        "ans": "image",
+        "img": "LALU_LINTAS_GABUNG_KIRI"
+      },
+      {
+        "ans": "image",
+        "img": "LALU_LINTAS_GABUNG_KANAN"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Apakah tindakan yang diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "TANDA_HALANGAN",
+    "mcq": [
+      {
+        "ans": "Bunyikan hon, nyalakan lampu tinggi dan tambahkan kelajuan ",
+        "img": "none"
+      },
+      {
+        "ans": "Perlahankan kenderaan, pandu dengan berhati-hati dan dilarang memotong ",
+        "img": "none"
+      },
+      {
+        "ans": "Perlahankan kenderaan, tukar kepada gear rendah dan berhenti ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "question": "Apakah tindakan yang diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "LINTASAN_KERETAPI_TIDAK_BERPAGAR",
+    "mcq": [
+      {
+        "ans": "Perlahankan kenderaan dan teruskan perjalanan jika tiada kereta api yang melalui kawasan ini ",
+        "img": "none"
+      },
+      {
+        "ans": "Pecutkan kenderaan dan teruskan perjalanan sebelum ketibaan kereta api ",
+        "img": "none"
+      },
+      {
+        "ans": "Berlumba dengan kereta api ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "TANDA_ARAH_PERAK",
+    "mcq": [
+      {
+        "ans": "Papan tanda jarak ",
+        "img": "none"
+      },
+      {
+        "ans": "Papan tanda tunjuk arah ",
+        "img": "none"
+      },
+      {
+        "ans": "Papan tanda kawasan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "LENCONGAN_KANAN",
+    "mcq": [
+      {
+        "ans": "Pembinaan di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Berhenti ",
+        "img": "none"
+      },
+      {
+        "ans": "Lencongan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "SIMPANG_EMPAT",
+    "mcq": [
+      {
+        "ans": "Pusat kesihatan ",
+        "img": "none"
+      },
+      {
+        "ans": "Simpang empat di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Rumah persatuan bulat sabit merah ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "HAD_TINGGI_3_5_M",
+    "mcq": [
+      {
+        "ans": "Kenderaan melebihi 3.5 meter lebar dibenarkan masuk ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan melebihi 3.5 meter tinggi dilarang masuk ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan melebihi 3.5 meter tinggi dibenarkan masuk ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "LIKU_KANAN",
+    "mcq": [
+      {
+        "ans": "Belok ke kiri sahaja ",
+        "img": "none"
+      },
+      {
+        "ans": "Lencongan ke kiri ",
+        "img": "none"
+      },
+      {
+        "ans": "Liku ke kanan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "SIMPANG_KIRI",
+    "mcq": [
+      {
+        "ans": "Simpang kiri ",
+        "img": "none"
+      },
+      {
+        "ans": "Simpang T di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Beri laluan kepada kenderaan dari kiri ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Apakah tanda isyarat lalu lintas untuk tindakan tukar kepada gear rendah?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "ZON_HOSPITAL"
+      },
+      {
+        "ans": "image",
+        "img": "KWSN_OKU"
+      },
+      {
+        "ans": "image",
+        "img": "LIKU_KIRI"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "question": "Apakah tindakan yang diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "LIKU_TAJAM",
+    "mcq": [
+      {
+        "ans": "Perlahankan kenderaan, dilarang memotong dan pandu dengan berhati-hati ",
+        "img": "none"
+      },
+      {
+        "ans": "Pecutkan kenderaan , bebaskan gear dan pandu dengan berhati-hati ",
+        "img": "none"
+      },
+      {
+        "ans": "Perlahankan kenderaan, bunyikan hon dan nyalakan lampu tinggi ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "question": "Apakah tanda isyarat lalu lintas untuk tindakan berikan laluan kepada kenderaan dari arah kanan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "TANDA_BERHENTI_KANAK_MELINTAS"
+      },
+      {
+        "ans": "image",
+        "img": "TANDA_BERI_LALUAN"
+      },
+      {
+        "ans": "image",
+        "img": "HAD_LAJU_50"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Apakah tanda isyarat lalu lintas untuk SEMENTARA?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "KWSN_TANAH_RUNTUH"
+      },
+      {
+        "ans": "image",
+        "img": "JALAN_BERULAR"
+      },
+      {
+        "ans": "image",
+        "img": "LALU_LINTAS_SEMENTARA"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Apakah tindakan yang diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "G_MENDAKI_MENURUN_JALAN_LICIN",
+    "mcq": [
+      {
+        "ans": "Bunyikan hon ",
+        "img": "none"
+      },
+      {
+        "ans": "Menambahkan kelajuan ",
+        "img": "none"
+      },
+      {
+        "ans": "Pandu dengan berhati-hati ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Apakah tanda isyarat lalu lintas untuk Kenderaan Yang Dipandu Perlahan Berada Di Lorong Sebelah Kiri?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "SIMPANG_KANAN"
+      },
+      {
+        "ans": "image",
+        "img": "JAMBATAN_SEMPIT"
+      },
+      {
+        "ans": "image",
+        "img": "LORONG_MENDAKI_2_LRG"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Apakah tindakan yang diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "LINTASAN_KERETAPI_PAGAR_AUTO",
+    "mcq": [
+      {
+        "ans": "Tambahkan kelajuan, bunyikan hon dan teruskan perjalanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Perlahankan kenderaan, berhenti dan teruskan perjalanan selepas pintu dibuka ",
+        "img": "none"
+      },
+      {
+        "ans": "Bunyikan hon dan teruskan perjalanan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Apakah tanda isyarat lalu lintas untuk Lintasan Pejalan Kaki?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "KWSN_PEJALAN_KAKI"
+      },
+      {
+        "ans": "image",
+        "img": "KWSN_ORANG_BUTA_MELINTAS"
+      },
+      {
+        "ans": "image",
+        "img": "KWSN_KANAK_MELINTAS"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "question": "Apakah tindakan yang diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "JALAN_TIDAK_RATA",
+    "mcq": [
+      {
+        "ans": "Perlahankan kenderaan, tukar kepada gear rendah dan teruskan perjalanan. ",
+        "img": "none"
+      },
+      {
+        "ans": "Pecutkan kenderaan, bebaskan gear dan teruskan perjalanan. ",
+        "img": "none"
+      },
+      {
+        "ans": "Perlahankan kenderaan, tukar kepada gear rendah dan berhenti ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "LALU_LINTAS_DUA_HALA",
+    "mcq": [
+      {
+        "ans": "Lalu lintas dua hala ",
+        "img": "none"
+      },
+      {
+        "ans": "Naik dan turun bukit ",
+        "img": "none"
+      },
+      {
+        "ans": "Pusing kiri dan kanan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Apakah maksud dan tindakan yang perlu diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "JALAN_BERULAR",
+    "mcq": [
+      {
+        "ans": "Jalan untuk pemandu mabuk di hadapan; perlahankan kenderaan dan bersedia untuk memotong ",
+        "img": "none"
+      },
+      {
+        "ans": "Jalan Bengkang-Bengkok; perlahankan kenderaan dan dilarang memotong ",
+        "img": "none"
+      },
+      {
+        "ans": "jalan licin di hadapan; perlahankan kenderaan dan bebaskan gear ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "LALU_LINTAS_SEMENTARA",
+    "mcq": [
+      {
+        "ans": "Kawasan merokok ",
+        "img": "none"
+      },
+      {
+        "ans": "Jalan sedang dibaiki ",
+        "img": "none"
+      },
+      {
+        "ans": "Longgokan bahan binaan di tepi jalan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "DILARANG_MASUK",
+    "mcq": [
+      {
+        "ans": "Berhenti serta-merta ",
+        "img": "none"
+      },
+      {
+        "ans": "Dilarang memotong ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan dilarang masuk ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "SIMPANG_KANAN",
+    "mcq": [
+      {
+        "ans": "Simpang kanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Pusing kiri ",
+        "img": "none"
+      },
+      {
+        "ans": "Jalan terus di hadapan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Apakah tanda isyarat lalu lintas untuk Berikan Keutamaan Kepada Kenderaan Dari Sebelah Kanan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "SIMPANG_EMPAT"
+      },
+      {
+        "ans": "image",
+        "img": "PUSINGAN_BULATAN"
+      },
+      {
+        "ans": "image",
+        "img": "LAMPU_ISYARAT"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Apakah tanda isyarat lalu lintas untuk berikan isyarat sebelum membelok?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "SIMPANG_KANAN"
+      },
+      {
+        "ans": "image",
+        "img": "AWAS"
+      },
+      {
+        "ans": "image",
+        "img": "TANDA_BERHENTI_HDPN"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "question": "Apakah tanda isyarat lalu lintas untuk Perhentian Bas?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "KWSN_ORANG_BUTA_MELINTAS"
+      },
+      {
+        "ans": "image",
+        "img": "TANDA_BAS"
+      },
+      {
+        "ans": "image",
+        "img": "PADANG_PERMAINAN"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Apakah tanda isyarat lalu lintas untuk Papan Tanda isyarat Arah Dengan Papan Tanda Ke Lebuh Raya?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "TANDA_ARAH_HIGHWAY_JOHOR"
+      },
+      {
+        "ans": "image",
+        "img": "TANDA_ARAH_KAJANG"
+      },
+      {
+        "ans": "image",
+        "img": "TANDA_JARAK_JOHOR"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "question": "Apakah tindakan yang diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "LIKU_TAJAM",
+    "mcq": [
+      {
+        "ans": "Perlahankan kenderaan, tukar kepada gear rendah dan bersedia untuk memecut ",
+        "img": "none"
+      },
+      {
+        "ans": "Perlahankan kenderaan, tukar gear rendah dan dilarang memotong ",
+        "img": "none"
+      },
+      {
+        "ans": "Pecutkan kenderaan, bebaskan gear dan bersedia untuk memotong ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "question": "Apakah tanda isyarat lalu lintas untuk Pembahagi Lebuh Raya Jalan Di Hadapan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "PEMBAHAGI_JLN_HDPN"
+      },
+      {
+        "ans": "image",
+        "img": "PEMBAHAGI_JLN_TAMAT"
+      },
+      {
+        "ans": "image",
+        "img": "TANDA_BERI_LALUAN_HDPN"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "question": "Apakah jarak ke Kuantan yang ditunjukkan pada papan tanda tersebut?",
+    "image": "TANDA_JARAK_PAHANG",
+    "mcq": [
+      {
+        "ans": "118km ",
+        "img": "none"
+      },
+      {
+        "ans": "193km ",
+        "img": "none"
+      },
+      {
+        "ans": "67km ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "DILARANG_BLBRT_KENDARAAN",
+    "mcq": [
+      {
+        "ans": "Tempat meletak kenderaan jenis ini sahaja ",
+        "img": "none"
+      },
+      {
+        "ans": "Jalan untuk kenderaan jenis ini sahaja ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan jenis ini sahaja yang tidak dibenarkan memasuki jalan ini ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "JALAN_SEMAKIN_SEMPIT",
+    "mcq": [
+      {
+        "ans": "Sungai sempit di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Jalan sempit di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Jalan bengkok di hadapan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "question": "Apakah tindakan yang diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "MENURUN_BUKIT_CURAM",
+    "mcq": [
+      {
+        "ans": "Pecukan kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Bebaskan gear ",
+        "img": "none"
+      },
+      {
+        "ans": "Menggunakan gear rendah ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "question": "Apakah tindakan yang diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "ARAH_KANAN",
+    "mcq": [
+      {
+        "ans": "Belok ke kanan sahaja ",
+        "img": "none"
+      },
+      {
+        "ans": "Dilarang membelok ke kanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Belok ke kiri sahaja ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "PEMBAHAGI_JLN_TAMAT",
+    "mcq": [
+      {
+        "ans": "Jalan bengkok di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Pembahagi lebuh raya dua hala bermula ",
+        "img": "none"
+      },
+      {
+        "ans": "Pembahagi lebuh raya dua hala tamat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "question": "Apakah tanda isyarat lalu lintas bagi penunggang motosikal dianggap salah dan disaman jika tidak dipatuhi?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "DILARANG_MEMOTONG"
+      },
+      {
+        "ans": "image",
+        "img": "DILARANG_BLBRT_KENDARAAN"
+      },
+      {
+        "ans": "image",
+        "img": "DILARANG_GUNA_MOTOSIKAL"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "DILARANG_PUSINGAN_U",
+    "mcq": [
+      {
+        "ans": "Semua kenderaan tidak dibenarkan berpusing balik ",
+        "img": "none"
+      },
+      {
+        "ans": "Dilarang pusing ke kanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Tempat untuk berpusing balik ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "HALANGAN_HDPN",
+    "mcq": [
+      {
+        "ans": "Isyarat halangan di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Simpang di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Lampu isyarat di hadapan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "question": "Apakah tanda isyarat lalu lintas untuk Jalan Sempit Di Hadapan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "AWAS"
+      },
+      {
+        "ans": "image",
+        "img": "BAHU_JALAN_LEMBUT"
+      },
+      {
+        "ans": "image",
+        "img": "JALAN_SEMPIT_2_HALUAN"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "question": "Apakah tanda isyarat lalu lintas untuk tanda persimpangan Kiri Dan Kanan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "JALAN_SEMAKIN_SEMPIT"
+      },
+      {
+        "ans": "image",
+        "img": "SIMPANG_KIRI_KANAN"
+      },
+      {
+        "ans": "image",
+        "img": "LALU_LINTAS_DUA_HALA"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "question": "Apakah tindakan yang diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "TANDA_BERI_LALUAN",
+    "mcq": [
+      {
+        "ans": "Berhenti ",
+        "img": "none"
+      },
+      {
+        "ans": "Memberikan laluan kepada kenderaan dari arah kanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memberikan laluan kepada pejalan kaki ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "HAD_LAJU_50",
+    "mcq": [
+      {
+        "ans": "Polis traffik di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Patuhi had laju yang ditetapkan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan kelajuan melebihi 50km/j ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "question": "Apakah tindakan yang salah apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "G_MENDAKI_MENURUN_BUKIT_CURAM",
+    "mcq": [
+      {
+        "ans": "Menggunakan gear rendah ",
+        "img": "none"
+      },
+      {
+        "ans": "Tidak boleh memotong ",
+        "img": "none"
+      },
+      {
+        "ans": "Dibenarkan memotong ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "LORONG_KANAN_HDPN_TUTUP",
+    "mcq": [
+      {
+        "ans": "Lorong sehala ",
+        "img": "none"
+      },
+      {
+        "ans": "Lorong Kanan Ditutup Kepada Lalu Lintas ",
+        "img": "none"
+      },
+      {
+        "ans": "Lorong Kiri Ditutup untuk meletak kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "ARAH_KANAN",
+    "mcq": [
+      {
+        "ans": "Pecutkan kenderaan dan buat pusingan balik ",
+        "img": "none"
+      },
+      {
+        "ans": "Pecutkan kenderaan dan jalan terus sahaja ",
+        "img": "none"
+      },
+      {
+        "ans": "Perlahankan kenderaan dan belok ke kanan sahaja ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "question": "Apakah tindakan yang diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "KWSN_ORANG_BUTA_MELINTAS",
+    "mcq": [
+      {
+        "ans": "Membunyikan hon sekiranya ada orang buta melintas ",
+        "img": "none"
+      },
+      {
+        "ans": "Perlahankan kenderaan dan berhenti sekiranya ada orang buta melintas ",
+        "img": "none"
+      },
+      {
+        "ans": "Memecutkan kenderaan sebelum orang buta melintas ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "KWSN_HAIWAN_LIAR_MELINTAS",
+    "mcq": [
+      {
+        "ans": "Kawasan rusa melintas ",
+        "img": "none"
+      },
+      {
+        "ans": "Ladang penternakan rusa di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Binatang liar melintas ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "question": "Apakah tanda isyarat lalu lintas untuk Tunjuk Arah Bulatan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "TANDA_ARAH_KLANG"
+      },
+      {
+        "ans": "image",
+        "img": "TANDA_ARAH_PERAK"
+      },
+      {
+        "ans": "image",
+        "img": "TANDA_ARAH_HIGHWAY_JB"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "question": "Apakah tanda isyarat lalu lintas untuk Teruskan Perjalanan Atau Belok Ke Kanan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "ARAH_KANAN"
+      },
+      {
+        "ans": "image",
+        "img": "LALU_LINTAS_GABUNG_KIRI"
+      },
+      {
+        "ans": "image",
+        "img": "ARAH_KANAN_LURUS"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "question": "Apakah tanda isyarat lalu lintas untuk Jalan Sedang Dibaiki?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "TANDA_HALANGAN"
+      },
+      {
+        "ans": "image",
+        "img": "LENCONGAN_KANAN"
+      },
+      {
+        "ans": "image",
+        "img": "NOTIS_PEMBINAAN"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "question": "Apakah tanda isyarat lalu lintas untuk Tidak Melebihi Had Laju Yang Ditetapkan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "HAD_LEBAR_2_5M"
+      },
+      {
+        "ans": "image",
+        "img": "BAHU_JALAN_LEMBUT"
+      },
+      {
+        "ans": "image",
+        "img": "HAD_LAJU_50"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "question": "Apakah tanda isyarat lalu lintas untuk Memberi Laluan Kepada Kenderaan Dari Sebelah Kanan Hadapan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "JALAN_SEMAKIN_SEMPIT"
+      },
+      {
+        "ans": "image",
+        "img": "SIMPANG_EMPAT"
+      },
+      {
+        "ans": "image",
+        "img": "JAMBATAN_SEMPIT"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "question": "Saman akan diberikan kepada pemandu yang membunyikan hon di kawasan tertentu. Apakah tanda isyarat lalu lintas yang tidak dipatuhi oleh pemandu tersebut?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "DILARANG_BUNYI_HON"
+      },
+      {
+        "ans": "image",
+        "img": "HAD_LAJU_50"
+      },
+      {
+        "ans": "image",
+        "img": "DILARANG_MASUK"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "question": "Apakah tanda isyarat lalu lintas untuk Berhenti Dan Tunggu Sehingga Pintu Pagar Dibuka?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "TANDA_BERHENTI"
+      },
+      {
+        "ans": "image",
+        "img": "LINTASAN_KERETAPI_TIDAK_BERPAGAR"
+      },
+      {
+        "ans": "image",
+        "img": "LINTASAN_KERETAPI_BERPAGAR"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "question": "Apakah tindakan yang dilarang apabila memandu di kawasan sekolah?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menambahkan kelajuan kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memperlahankan kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan berhati-hati ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "question": "Apakah tindakan yang diambil apabila nampak tanda isyarat lalu lintas tersebut?",
+    "image": "TANDA_BERHENTI_KANAK_MELINTAS",
+    "mcq": [
+      {
+        "ans": "Memecutkan kenderaan dan membunyikan hon sekiranya ada kanak-kanak melintas ",
+        "img": "none"
+      },
+      {
+        "ans": "Memberhentikan kenderaan dan memberikan laluan kepada kanak-kanak untuk melintas ",
+        "img": "none"
+      },
+      {
+        "ans": "Memperlahankan kenderaan dan tukar gear rendah untuk meneruskan perjalanan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "PILI_BOMBA",
+    "mcq": [
+      {
+        "ans": "Mesin Layan Diri ",
+        "img": "none"
+      },
+      {
+        "ans": "Paip air awam ",
+        "img": "none"
+      },
+      {
+        "ans": "Paip bomba ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "question": "Di manakah kita dapat melihat tanda isyarat lalu lintas ini?",
+    "image": "G_TANDA_SEKOLAH",
+    "mcq": [
+      {
+        "ans": "Sekolah ",
+        "img": "none"
+      },
+      {
+        "ans": "Kilang ",
+        "img": "none"
+      },
+      {
+        "ans": "Kampung ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "question": "Di manakah kita dapat melihat tanda isyarat lalu lintas sementara ini?",
+    "image": "G_TANDA_PEMBINAAN_HDPN",
+    "mcq": [
+      {
+        "ans": "Kawasan sekolah ",
+        "img": "none"
+      },
+      {
+        "ans": "Kawasan perindustrian ",
+        "img": "none"
+      },
+      {
+        "ans": "Kawasan jalan sedang dibaiki ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "question": "Apakah maksud bagi tanda isyarat lalu lintas tersebut?",
+    "image": "LINTASAN_KERETAPI_BERPAGAR",
+    "mcq": [
+      {
+        "ans": "Lintasan kereta api berpagar ",
+        "img": "none"
+      },
+      {
+        "ans": "Kawasan perumahan berpagar ",
+        "img": "none"
+      },
+      {
+        "ans": "Taman rekreasi berpagar ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "question": "Apakah tanda isyarat lalu lintas untuk Laluan Sempit Di Hadapan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "JALAN_SEMPIT_2_HALUAN"
+      },
+      {
+        "ans": "image",
+        "img": "SIMPANG_EMPAT"
+      },
+      {
+        "ans": "image",
+        "img": "LALU_LINTAS_GABUNG_KANAN"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "question": "Apakah tanda isyarat lalu lintas untuk Simpang Tiga?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "JALAN_SEMAKIN_SEMPIT"
+      },
+      {
+        "ans": "image",
+        "img": "LALU_LINTAS_GABUNG_KIRI"
+      },
+      {
+        "ans": "image",
+        "img": "SIMPANG_T"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "question": "Apakah tanda isyarat lalu lintas untuk Persimpangan Jalan Kecil Di Sebelah Kiri?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "LALU_LINTAS_GABUNG_KIRI"
+      },
+      {
+        "ans": "image",
+        "img": "SIMPANG_KIRI_KANAN"
+      },
+      {
+        "ans": "image",
+        "img": "SIMPANG_CABANG_KANAN"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "question": "Apakah tanda isyarat lalu lintas untuk Dilarang Melebhi Had Laju yang ditetapkan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "image",
+        "img": "DILARANG_MASUK"
+      },
+      {
+        "ans": "image",
+        "img": "DILARANG_BERHENTI"
+      },
+      {
+        "ans": "image",
+        "img": "HAD_LAJU_50"
+      }
+    ]
+  }
+]

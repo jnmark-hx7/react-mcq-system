@@ -1,0 +1,4676 @@
+[
+  {
+    "id": 1,
+    "question": "Apabila anda hendak memandu dari lorong kanan ke lorong kiri, anda mesti:",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memberi isyarat sekurang-kurangnya 3 saat sebelum bergerak ke kiri ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu ke lorong kiri secepat mungkin sebelum ketibaan kenderaan di lorong tersebut ",
+        "img": "none"
+      },
+      {
+        "ans": "Memecutkan kenderaan dan memotong ke lorong kiri tanpa beri isyarat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Apakah tindakan yang perlu diambil semasa berhenti di persimpangan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mematikan enjin ",
+        "img": "none"
+      },
+      {
+        "ans": "Membebaskan gear ",
+        "img": "none"
+      },
+      {
+        "ans": "Menyalakan lampu tinggi ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Bagaimanakah cara memandu di lebuh raya tiga lorong?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Lorong kiri untuk memotong, lorong tengah untuk memandu dengan laju, lorong kanan untuk memandu dengan perlahan ",
+        "img": "none"
+      },
+      {
+        "ans": "Lorong kiri untuk meletak kenderaan, lorong tengak untuk mencari tempat letak kenderaan, lorong kanan untuk memandu dengan laju ",
+        "img": "none"
+      },
+      {
+        "ans": "Lorong kiri untuk memandu dengan perlahan, lorong tengah untuk memandu dengan had laju biasa, lorong kanan untuk memotong. ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Kemalangan semasa mengundurkan kenderaan boleh dielakkan sekiranya pemandu:",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memastikan keadaan sebenar sebelum menaiki kenderaan, melihar cermin pandang belakang dan cermin pandang sisi sebelum mengundur ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengundur serta-merta dan berhenti selepas mendengar bunyi hon ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengundur dengan perlahan tanpa melihat keadaan sebenar persekitaran jalan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Gunakan brek tangan apabila:",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memandu laju dan memotong kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Pusing di selekoh ",
+        "img": "none"
+      },
+      {
+        "ans": "Berhenti di cerun bukit ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Apakah perkara yang akan dilakukan oleh pemandu yang mengamalkan pemanduan sempurna?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memotong kenderaan tanpa memberi isyarat ",
+        "img": "none"
+      },
+      {
+        "ans": "Merancang perjalanan sebelum memulakan perjalanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan laju di lorong yang sempit ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Had laju maksimum yang ditetapkan di lebuh raya?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "110km/j ",
+        "img": "none"
+      },
+      {
+        "ans": "80km/j ",
+        "img": "none"
+      },
+      {
+        "ans": "150km/j ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Apakah cara memandu semasa hujan lebat?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memandu dengan laju kerana takut sesak jalan nanti ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan lebih berhati-hati ",
+        "img": "none"
+      },
+      {
+        "ans": "Membunyikan hon dan menyalakan lampu tinggi sepanjang jalan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Apakah tindakan yang perlu diambil sebelum memulakan perjalanan untuk memastikan keselamatan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memastikan pemandu sudah makan sarapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memastikan kereta anda telah dicuci ",
+        "img": "none"
+      },
+      {
+        "ans": "Memastikan kenderaan berada dalam keadaan baik ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Apakah jenis pelanggaran yang boleh menyebabkan kesan yang paling merbahaya?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Perlangganran dengan kenderaan dari bawah ",
+        "img": "none"
+      },
+      {
+        "ans": "perlanggaran dengan kenderaan dari atas ",
+        "img": "none"
+      },
+      {
+        "ans": "Perlanggaran dengan kenderaan dari hadapan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Apakah sebab kemalangan jalan raya berlaku pada waktu hujan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Pemandu membunyikan hon ",
+        "img": "none"
+      },
+      {
+        "ans": "Pemandu tidak dapat mengawal kenderaan dengan baik ",
+        "img": "none"
+      },
+      {
+        "ans": "Pemandu memandu dengan berhati-hati ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Apakah tindakan yang diambil apabila brek kenderaan gagal berfungsi?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Lompat kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Pam pedal pecut ",
+        "img": "none"
+      },
+      {
+        "ans": "Tarik brek tangan serta-merta ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Bilakah kita perlu memakai tali pinggang keledar?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Semasa balik rumah ",
+        "img": "none"
+      },
+      {
+        "ans": "Semasa ternampak polis ",
+        "img": "none"
+      },
+      {
+        "ans": "Setiap kali memandu ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Apakah faktor yang menyebabkan kemalangan jalan raya?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Pemandu membuat kesilapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan dalam keadaan baik ",
+        "img": "none"
+      },
+      {
+        "ans": "Keadaan cuaca yang baik ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Bagaimanakah kita mengekori kenderaan lain pada waktu malam dengan selamat?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mengekori dengan jarak yang betul dan merendahkan lampu ",
+        "img": "none"
+      },
+      {
+        "ans": "Membunyikan hon dan bersedia untuk memotong ",
+        "img": "none"
+      },
+      {
+        "ans": "Mendekati kenderaan depan dengan laju ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Apakah tindakan yang harus diambil apabila melakukan perjalanan jauh?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Merancang perjalanan dan memandu dengan berhemah supaya sampai di destinasi dengan selamat ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan laju untuk mengelakkan kesesakan ",
+        "img": "none"
+      },
+      {
+        "ans": "Membunyikan hon dan memotong kenderaan yang lambat tanpa memberi isyarat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Apakah tindakan yang harus diambil ketika menukar lorong untuk mengatasi titik buta(blind spot)?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menukar lorong secepat mungkin ",
+        "img": "none"
+      },
+      {
+        "ans": "Berhenti serta-merta ",
+        "img": "none"
+      },
+      {
+        "ans": "Menoleh sedikit di sebelah kanan atau kiri sebelum menukar lorong ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Apakah sikap yang patut diamal oleh pemandu yang baik?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Suka memotong kenderaan yang lambat dengan tergesa-gesa ",
+        "img": "none"
+      },
+      {
+        "ans": "Sentiasa sabar dan bertimbang rasa ",
+        "img": "none"
+      },
+      {
+        "ans": "Sentiasa berlumba di jalan raya ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Apakah tindakan yang harus diambil apabila mengikuti kenderaan menaiki bukit?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Berhenti dan menunggu sehingga kenderaan tersebut berjalan jauh ",
+        "img": "none"
+      },
+      {
+        "ans": "Membunyikan hon dan menyalakan lampu tinggi ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengekalkan jarak yang selamat daripada kenderaan di hadapan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Apakah cara yang betul semasa memegang stereng?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Pada pukul 9.00 - tangan kiri dan pukul 3.00 - tangan kanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Pada pukul 11.00 - tangan kiri dan pukul 1.00 - tangan kanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Pada pukul 10.00 - tangan kiri dan pukul 2.00 - tangan kanan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Bagaimanakah kita berhenti kenderaan dengan selamat di jalan raya?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Membebaskan gear dan berhenti dengan serta-merta ",
+        "img": "none"
+      },
+      {
+        "ans": "Meningkatkan kelajuan dan berhenti di sebelah kiri dengan serta-merta ",
+        "img": "none"
+      },
+      {
+        "ans": "Melihat cermin pandang belakang, memberikan isyarat dan memberhentikan kenderaan di sebelah kiri jalan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Apakah tindakan yang harus diambil apabila menghampiri simpang empat yang berlampu isyarat dan dikawal oleh polis trafik?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mengikut arahan lampu isyarat ",
+        "img": "none"
+      },
+      {
+        "ans": "Membunyikan hon dan meneruskan perjalanan mengikut keutamaan jalan ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengikut isyarat dan arahan polis trafik ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Semasa memandu menuruni bukit, anda dikehendaki:",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menekan pedal pemecut ",
+        "img": "none"
+      },
+      {
+        "ans": "Membebaskan gear ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengunakkan gear tengah ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Apakah cara untuk menambah kelajuan kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menekan pedal pemecut ",
+        "img": "none"
+      },
+      {
+        "ans": "Menekan pedal brek ",
+        "img": "none"
+      },
+      {
+        "ans": "Menarik brek tangan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Apakah tindakan yang harus diambil jika kenderaan anda terbakar semasa memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Berhentikan kenderaan, matikan enjin dan selamatkan penumpang ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu ke balai bomba dengan segera ",
+        "img": "none"
+      },
+      {
+        "ans": "Melompat keluar dari kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Apakah cara untuk mengelakkan perlanggaran dengan kenderaan dari belakang?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memberikan isyarat dalam tempoh masa yang mencukupi sebelum berhenti atau memotong ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan cepat ",
+        "img": "none"
+      },
+      {
+        "ans": "Berhenti secara tiba-tiba ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Gear apa yang digunakan untuk memulakan pergerakan kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Gear empat ",
+        "img": "none"
+      },
+      {
+        "ans": "Gear satu ",
+        "img": "none"
+      },
+      {
+        "ans": "Gear lima ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Apakah yang harus dibuat apabila menghampiri kawasan lintasan pejalan kaki?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Meningkatkan kelajuan untuk mengelakkan orang melintas ",
+        "img": "none"
+      },
+      {
+        "ans": "Memperlahankan kenderaan supaya sempat berhenti jika perlu ",
+        "img": "none"
+      },
+      {
+        "ans": "Menyalakan lampu tinggi dan membunyikan hon supaya orang tidak melintas ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Apakah langkah yang perlu diambil apabila brek kenderaan tidak berfungsi semasa menuruni bukit?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Tukar kepada gear rendah dan gunakan brek tangan ",
+        "img": "none"
+      },
+      {
+        "ans": "Meningkatkan kelajuan ",
+        "img": "none"
+      },
+      {
+        "ans": "Langgar ke halangan supaya dapat berhenti ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Apakah peraturan jarak yang harus diamalkan semasa mengekori kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Peraturan 2 saat dan 4 saat ",
+        "img": "none"
+      },
+      {
+        "ans": "Peraturan 10 saat ",
+        "img": "none"
+      },
+      {
+        "ans": "Peraturan 3 saat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Apakan peraturan yang harus dipatuhi semasa memotong kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memotong ikut kiri ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengamalkan peraturan 12 saat dan memberikan isyarat untuk bergerak ke kanan sekurang-kurangnya 3 saat ",
+        "img": "none"
+      },
+      {
+        "ans": "Meningkatkan kelajuan dan memotong dengan segera ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Apakah yang patut dilakukan sebelum memulakan perjalanan pada waktu puncak?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menggunakan laluan kecemasan ",
+        "img": "none"
+      },
+      {
+        "ans": "Merancang perjalanan supaya tidak menghadapi waktu puncak atau memilih laluan alternatif ",
+        "img": "none"
+      },
+      {
+        "ans": "Menggunakan pengangkutan air ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Apakah jenis kesalahan yang berkaitan dengan alcohol di bawah akta Pengangkutan Jalan 1987?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menumpang kenderaan rakan yang tidak dipengaruhi oleh minuman yang memabukkan/alcohol ",
+        "img": "none"
+      },
+      {
+        "ans": "Menaiki kenderaan awam yang pemandunya tidak dipengaruhi oleh minuman yang memabukkan/alcohol ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu semasa berada di bawah pengaruh minuman yang memabukkan/alcohol ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Apakah tindakan yang harus dibuat apabila warna lampu isyarat bertukar kepada hijau?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Membunyikan hon sebelum meneruskan perjalanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Meneruskan perjalanan sekiranya selamat ",
+        "img": "none"
+      },
+      {
+        "ans": "Memecutkan kenderaan dengan segera ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Apakah faktor yang boleh menyebabkan kemalangan jalan raya?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Suara eksos kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Keadaan kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Jenama kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Bagaimanakah dianggap sebagai sikap pemanduan sempurna?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mematuhi peraturan lalu lintas ",
+        "img": "none"
+      },
+      {
+        "ans": "Terlibat dalam kemalangan jalan raya ",
+        "img": "none"
+      },
+      {
+        "ans": "Tidak sopan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Apakah tindakan yang dilarang ketika kenderaan anda dipotong oleh kenderaan lain?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mengurangkan kelajuan ",
+        "img": "none"
+      },
+      {
+        "ans": "Melajukan kenderaan anda ",
+        "img": "none"
+      },
+      {
+        "ans": "Memberikan laluan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Apa yang harus dibuat ketika memandu di jalan yang tidak rata?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menggunakan gear tinggi ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu ke kiri atau kanan untuk mengelakkan jalan yang tidak rata ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengurangkan kelajuan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Pedal mana yang anda guna apabila menghentikan kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Pedal pemecut diikuti dengan klac ",
+        "img": "none"
+      },
+      {
+        "ans": "Pedal klac diikuti dengan brek ",
+        "img": "none"
+      },
+      {
+        "ans": "Pedal brek diikuti dengan klac ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Apakah cara untuk mengelakkan kemalangan yang disebabkan oleh faktor kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memastikan jalan rata ",
+        "img": "none"
+      },
+      {
+        "ans": "Memastikan cuaca baik ",
+        "img": "none"
+      },
+      {
+        "ans": "Memastikan kenderaan berfungsi dengan baik ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Apakah tanggungjawab penguna jalan raya?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memandu dengan kelajuan yang diingini sesuka hati ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengabaikan pengguna lain ",
+        "img": "none"
+      },
+      {
+        "ans": "Pemandu mestilah berwaspada dalam semua keadaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Apakah yang harus dibuat apabila menghampiri lampu isyarat?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Berhenti di hadapan lampu isyarat ",
+        "img": "none"
+      },
+      {
+        "ans": "Mematuhi arahan lampu isyarat ",
+        "img": "none"
+      },
+      {
+        "ans": "Meningkatkan kelajuan sebelum lampu merah ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Apakah yang harus dilakukan apabila ternampak sekumpulan kanak-kanak bermain di tepi jalan semasa memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Meningkatkan kelajuan dan bunyikan hon dengan kuat ",
+        "img": "none"
+      },
+      {
+        "ans": "Perlahankan kenderaan, bersedia untuk membrek dan berhenti jika perlu ",
+        "img": "none"
+      },
+      {
+        "ans": "Teruskan perjalanan tanpa menghiraukan kanak-kanak tersebut ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Apakah tindakan yang patut diambil sekiranya kenderaan dari hadapan anda menggunakan lampu tinggi pada waktu malam?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mengunakan lampu tinggi untuk mengingatkan pemandu kenderaan itu supaya merendahkan lampunya ",
+        "img": "none"
+      },
+      {
+        "ans": "Menyalakan hon dengan kuat dan berterusan ",
+        "img": "none"
+      },
+      {
+        "ans": "Menggunakan lampu tinggi dan memandu masuk ke lorong kenderaan dari hadapan untuk mengingatkan pemandu tersebut ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Bilakah pemandu perlu melihat cermin pandang belakang semasa memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Setiap 5 hingga 8 saat ",
+        "img": "none"
+      },
+      {
+        "ans": "Setiap 5 hingga 10 minit ",
+        "img": "none"
+      },
+      {
+        "ans": "Setiap 2 hingga 3 saat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Apakah tindakan yang perlu dilakukan sebelum memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Melaras tempat duduk dan cermin, dan memakai tali pinggang keledar. ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengisi minyak ",
+        "img": "none"
+      },
+      {
+        "ans": "Menukar warna kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Apakah maksud dengan memberikan isyarat dengan batul semasa memandu bagi mengelakkan kemalangan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menyalakan lampu tinggi semasa berpusing ",
+        "img": "none"
+      },
+      {
+        "ans": "Memberikan isyarat lampu atau isyarat tanagan dengan betul ",
+        "img": "none"
+      },
+      {
+        "ans": "Membunyikan hon di sepanjang perjalanan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Apa yang perlu dibuat apabila memandu di atas jalan yang licin?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memandu dengan cepat untuk mengelakkan kemalangan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan perlahan di lorong kanan untuk mengelakkan tergelincir ke tepi longkang ",
+        "img": "none"
+      },
+      {
+        "ans": "Memperlahankan kenderaan supaya senang dikawal ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Apakah keadaan di lebuh raya dua lorong membolehkan pemandu memandu di lorong kanan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Semasa dikejar oleh polis ",
+        "img": "none"
+      },
+      {
+        "ans": "Semasa berlumba ",
+        "img": "none"
+      },
+      {
+        "ans": "Semasa memotong kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Apakah maksud bagi pemandu yang bertanggungjawab kepada pengguna jalan raya lain?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Tidak memberi laluan kepada pengguna jalan raya yang lain walaupun patut ",
+        "img": "none"
+      },
+      {
+        "ans": "Membunyikan hon dan memotong pengguna jalan raya yang lain sekiranya didapati tidak mengikut peraturan jalan raya ",
+        "img": "none"
+      },
+      {
+        "ans": "Bertolak ansur dengan semua pengguna jalan raya yang lain dalam pelbagai keadaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Pemandu menggunakan cermin pandang belakang untuk melihat apa?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Cuaca di belakang kereta ",
+        "img": "none"
+      },
+      {
+        "ans": "Orang di dalam kereta ",
+        "img": "none"
+      },
+      {
+        "ans": "Halangan melalui cermin pandang belakang ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Apakah tindakan yang diambil sekiranya kenderaan yang anda pandu terjunam ke dalam sungai?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Bentuk rangkaian manusia dan keluar melalui tingkap ",
+        "img": "none"
+      },
+      {
+        "ans": "Tunggu penyelamat datang ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengambil gambar dalam kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Apakah tindakan yang harus diambil apabila melihat tanda isyarat lalu lintas di jalan yang berselekoh?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menambahkan kelajuan dan gunakan brek tangan ",
+        "img": "none"
+      },
+      {
+        "ans": "Menekan brek dan berhenti ",
+        "img": "none"
+      },
+      {
+        "ans": "Memperlahankan kenderaan dan memandu dengan berhati-hati ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Apakah tindakan yang harus diambil apabila anda ingin bertukar ke lorong kanan sewaktu memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Melihat cermin pandang belakang dan sisi serta memberikan isyarat secukupnya sebelum menukar lorong ",
+        "img": "none"
+      },
+      {
+        "ans": "Meningkatkan kelajuan dan menukar secepat mungkin ",
+        "img": "none"
+      },
+      {
+        "ans": "Berhenti dan menukar lorong apabila tiada kenderaan lain ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Apakah tindakan yang harus diambil apabila melihat kenderaan dari arah hadapan dalam keadaan yang tidak terkawal?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Meningkatkan kelajuan dan teruskan perjalanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Membunyikan hon dan menyalakan lampu tinggi ",
+        "img": "none"
+      },
+      {
+        "ans": "Berhentikan kenderaan di sebelah kiri jalan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Apakah tujuan perlaksanaan Kurikulum Pendidikan Pemandu(KPP)?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Melahirkan polis trafik ",
+        "img": "none"
+      },
+      {
+        "ans": "Meningkatkan mutu pemandu semasa berlumba di jalan raya ",
+        "img": "none"
+      },
+      {
+        "ans": "Melahirkan pemandu yang berpengetahuan berkemahiran, berhemah dan cekap ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Apakah tindakan yang harus diambil semasa menghampiri simpang empat?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kurangkan kelajuan, memandu di lorong yang betul dan berhenti sebelum garisan putih ",
+        "img": "none"
+      },
+      {
+        "ans": "Meningkatkan kelajuan dan teruskan perjalanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Kurangkan kelajuan dan menyalakan lampu tinggi ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Apakah maksud pemanduan berhemah?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Cara memandu yang dapat mengelakkan kemalangan ",
+        "img": "none"
+      },
+      {
+        "ans": "Cara berlumba di jalan raya ",
+        "img": "none"
+      },
+      {
+        "ans": "Cara membaiki kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Berapakah kandungan alkohol yang dibenarkan bagi pemandu yang berlesen PDL?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "0.00 mg alkohol ",
+        "img": "none"
+      },
+      {
+        "ans": "12.00 mg alkohol ",
+        "img": "none"
+      },
+      {
+        "ans": "5.00 mg alkohol ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Berapakah jumlah pergerakan atau olah gerak dalam pemandu sebenar di jalan raya?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Lapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Tujuh ",
+        "img": "none"
+      },
+      {
+        "ans": "Tiga ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Apakah langkah yang boleh mengelakkan kemalangan berlaku dalam konsep Pemanduan Berhemah?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mengenal pasti, menganalisis halangan, membuat keputusan dan bertindak ",
+        "img": "none"
+      },
+      {
+        "ans": "Memotong kenderaan di hadapan sesuka hati ",
+        "img": "none"
+      },
+      {
+        "ans": "Berhenti pada bila-bila masa di tengah jalan raya ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Apakah maksud peraturan dua saat mengikuti Konsep Pemanduan Berhemah?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Peraturan jarak selamat untuk mengekori kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Peraturan untuk berhenti di tepi jalan ",
+        "img": "none"
+      },
+      {
+        "ans": "Peraturan untuk mengundur kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Mana yang antara berikut bukan peraturan di persimpangan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memperlahankan kenderaan dan bersedia untuk henti jika perlu ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan berhati-hati ",
+        "img": "none"
+      },
+      {
+        "ans": "Memasang lampu kecemasan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Bagaimanakah cara untuk mengelakkan perlanggaran kenderaan di hadapan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Sentiasa memotong kenderaan di hadapan yang lambat ",
+        "img": "none"
+      },
+      {
+        "ans": "Sentiasa membunyikan hon dan mendekati kenderaan di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengekori kenderaan di hadapan dengan jarak yang selamat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Apakah kesan pengaruh alkohol dan dadah yang diambil secara berlebihan kepada pemandu semasa memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memandu dengan lebih selamat ",
+        "img": "none"
+      },
+      {
+        "ans": "Meningkatkan semangat pemandu ",
+        "img": "none"
+      },
+      {
+        "ans": "Menyebabkan tingkah laku tidak normal dan di luar kawalan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Di manakah pemandu dilarang membunyikan hon?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Hospital ",
+        "img": "none"
+      },
+      {
+        "ans": "Lebuh raya ",
+        "img": "none"
+      },
+      {
+        "ans": "Kawasan bandar ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Apakah tindakan yang harus dilakukan apabila berasa letih ketika memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memberhentikan kenderaan di kawasan selamat dan berehat ",
+        "img": "none"
+      },
+      {
+        "ans": "Meningkatkan kelajuan supaya lebih cepat sampai ke destinasi ",
+        "img": "none"
+      },
+      {
+        "ans": "Meneruskan perjalanan dengan berhati-hati ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Apakah yang harus dilakukan apabila menerima ubat daripada doktor?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menanya doktor apakah kesan ubat itu ke atas kebolehan pemanduan anda ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu seperti biasa ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan lebih cepat selepas makan ubat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Bagaimana untuk mengelakkan kemalangan yang berpunca daripada keadaan jalan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menyesuaikan kelajuan kenderaan anda mengikut keadaaan jalan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan cepat dan memotong kenderaan di kawasan larangang ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu perlahan dan membunyikan hon sepanjang jalan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Apakah faktor yang menyebabkan kemalangan berlaku pada akhir sesuatu perjalanan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Keletihan dan mengantuk ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengamalkan sikap pemanduan berhemah ",
+        "img": "none"
+      },
+      {
+        "ans": "Cuaca yang panas ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Apakah jarak yang selamat antara dua kenderaan semasa menaiki bukit?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Dekat di antara satu sama lain ",
+        "img": "none"
+      },
+      {
+        "ans": "Sama jarak berbanding dengan di jalan yang rata ",
+        "img": "none"
+      },
+      {
+        "ans": "Lebih berbanding dengan di jalan yang rata ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Apakah cara pemanduan berhemah di lebuh raya?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memandu di tengah jalan dan berhenti secara tiba-tiba ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu di sebelah kanan jalan dengan perlahan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu di sebelah kiri mengikut had laju yang ditetapkan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Apakah yang patut dibuat semasa memandu di selekoh?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menggunakan gear rendah ",
+        "img": "none"
+      },
+      {
+        "ans": "Memecut dan mengeluarkan bunyi eksos yang kuat ",
+        "img": "none"
+      },
+      {
+        "ans": "Menggunakan gear tinggi ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Apakah lorong yang patut memandu apabila kenderaan anda menghampiri bulatan dan ingin membelok ke kanan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Lorong kanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Lorong Kiri ",
+        "img": "none"
+      },
+      {
+        "ans": "Lorong Tengah ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Apakah perbuatan yang kurang sopan boleh membawa kepada bahaya semasa memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Sentiasa memasang lampu tinggi semasa memandu pada waktu malam ",
+        "img": "none"
+      },
+      {
+        "ans": "Berhenti di belakang garisan putih apabila lampu isyarat berwarna merah ",
+        "img": "none"
+      },
+      {
+        "ans": "Memastikan jarak yang selamat semasa mengikuti kenderaan di hadapan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "question": "Bilakah anda perlu menggunakan peraturan 4 saat?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Apabila memotong kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Apabila berhenti di depan lampu isyarat ",
+        "img": "none"
+      },
+      {
+        "ans": "Apabila memandu dalam keadaan cuaca yang buruk ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Apakah yang patut dilakukan oleh pemandu apabila terdapat takungan air dan pejalan kaki di laluan anda?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memandu ke arah takungan air supaya air tersebut dapat mencuci roda kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memperlahankan kenderaan supaya air tidak terpercik pada pejalan kaki ",
+        "img": "none"
+      },
+      {
+        "ans": "Meningkatkan kelajuan kenderaan dan membunyikan hon ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Apakah tindakan yang harus diambil untuk mengelakkan berlakunya perlanggaran dari belakang ketika diikuti rapat oleh kenderaan lain?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Meningkatkan kelajuan kenderaan anda supaya kenderaan di belakang tidak mengikuti terlalu rapat ",
+        "img": "none"
+      },
+      {
+        "ans": "Berhenti serta-merta ",
+        "img": "none"
+      },
+      {
+        "ans": "Memberikan isyarat dan laluan kepada kenderaan di belakang agar memotong apabila keadaan selamat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "question": "Berapa masa diperlukan untuk memberi isyarat sebelum mengubah haluan atau kedudukan kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Sekurang-kurangnya 10 saat ",
+        "img": "none"
+      },
+      {
+        "ans": "Sekurang-kurangnya 3 saat ",
+        "img": "none"
+      },
+      {
+        "ans": "Sekurang-kurangnya 5 saat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Apakah keadaan anda dilarang menggunakan lampu tinggi kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Melalui kawasan kampung ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengikuti kenderaan lain ",
+        "img": "none"
+      },
+      {
+        "ans": "Di tempat letak kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Apakah tindakan pemandu yang tidak sopan semasa memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Tidak memberikan isyarat dengan betul ",
+        "img": "none"
+      },
+      {
+        "ans": "Memberikan isyarat yang cukup sebelum mengubah lorong ",
+        "img": "none"
+      },
+      {
+        "ans": "Melambatkan kenderaan apabila dipotong ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Apakah tindakan yang diambil apabila ternampak binatang di tengah jalan semasa memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Membunyikan hon sambil mengejar binatang tersebut ",
+        "img": "none"
+      },
+      {
+        "ans": "Memperlahankan kenderaan, tidak membunyikan hon dan bersedia untuk berhenti. ",
+        "img": "none"
+      },
+      {
+        "ans": "Berhenti dan membawa binatang tersebut ke tepi jalan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Apakah cara memotong yang selamat?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "5 peraturan memotong ",
+        "img": "none"
+      },
+      {
+        "ans": "10 peraturan memotong ",
+        "img": "none"
+      },
+      {
+        "ans": "1 peraturan memotong ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "question": "Apakah tindakan yang perlu diambil semasa memandu apabila menyedari bahawa anda tidak memakai tali pinggang keledar?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memakai tali pinggang keledar serta-merta sambil memandu ",
+        "img": "none"
+      },
+      {
+        "ans": "Berhenti di sebelah kiri dan memakai tali pinggang keledar ",
+        "img": "none"
+      },
+      {
+        "ans": "Meneruskan perjalanan tanpa memakai tali pinggang keledar ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "question": "Peraturan apa yang dipatuhi untuk mengelakkan perlanggaran dengan kenderaan di hadapan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Peraturan undang-undang ",
+        "img": "none"
+      },
+      {
+        "ans": "Menggunakan peraturan 10 saat ",
+        "img": "none"
+      },
+      {
+        "ans": "Menggunakan peraturan 2 saat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Apakah keadaan dilarang menggunakan lampu kecemasan(hazard lights)?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kenderaan rosak di tepi jalan ",
+        "img": "none"
+      },
+      {
+        "ans": "Sewaktu hujan lebat dan jerebu ",
+        "img": "none"
+      },
+      {
+        "ans": "Kecemasan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Apakah tindakan yang patut diambil sekiranya anda mengantuk semasa memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memberhentikan kenderaan dan berehat ",
+        "img": "none"
+      },
+      {
+        "ans": "Teruskan perjalanan dengan laju ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan perlahan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Apakah faktor yang boleh menyebabkan kemalangan berlaku?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Pemandu, kenderaan, cuaca, lalu lintas, cahaya dan jalan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memberi laluan kepada kenderaan yang memotong ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengikut arahan lampu isyarat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Apakah peraturan yang tidak dipatuhi oleh pemandu semasa memotong apabila terlibat dalam kemalangan jalan raya dengan kenderaan yang datang dari arah hadapan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Peraturan 3 saat ",
+        "img": "none"
+      },
+      {
+        "ans": "Peraturan 5 saat ",
+        "img": "none"
+      },
+      {
+        "ans": "Peraturan 12 saat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Apakah yang perlu dipertimbangkan oleh pemandu sebelum meningkatkan kelajuan kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Jarak destinasi yang jauh ",
+        "img": "none"
+      },
+      {
+        "ans": "Keadaan jalan, lalu lintas, cuaca, kenderaan dan keupayaan pemandu ",
+        "img": "none"
+      },
+      {
+        "ans": "Terlewat memulakan perjalanan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "question": "Apakah tindakan yang diambil oleh pemandu apabila warna lampu isyarat telah bertukar kepada hijau dan ada pejalan kaki sedang melintas jalan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memulakan perjalanan serta-merta ",
+        "img": "none"
+      },
+      {
+        "ans": "Tunggu dan berikan keutamaan kepada pejalan kaki ",
+        "img": "none"
+      },
+      {
+        "ans": "Bunyikan hon dan menegur pejalan kaki ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Di manakah pemandu boleh memotong kederaan lain?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Di selekoh ",
+        "img": "none"
+      },
+      {
+        "ans": "Di bulatan ",
+        "img": "none"
+      },
+      {
+        "ans": "Di sebelah kanan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Apakah ciri-ciri pemandu yang tidak berhemah?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memandu dengan berhati-hati ",
+        "img": "none"
+      },
+      {
+        "ans": "Sentiasa memastikan kenderaan dalam keadaan baik ",
+        "img": "none"
+      },
+      {
+        "ans": "Mempunyai kegemaran berlumba dan memandu dengan laju ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Apakah yang perlu dilakukan sebelum menghidupkan enjin kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menekan pedal pemecut ",
+        "img": "none"
+      },
+      {
+        "ans": "Menggunakan gear lima ",
+        "img": "none"
+      },
+      {
+        "ans": "Memastikan gear dalam keadaan bebas ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Apakah cara yang terbaik untuk memperlahankan kenderaan semasa menuruni bukit?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Tukar kepada gear rendah dan gunakan brek kaki ",
+        "img": "none"
+      },
+      {
+        "ans": "Membebaskan gear ",
+        "img": "none"
+      },
+      {
+        "ans": "Menekan pedal klac dan gunakan brek tangan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Mengapakah pemandu mesti memakai pakaian yang sesuai?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Pakaian yang tidak sesuai akan menghalang pergerakan ",
+        "img": "none"
+      },
+      {
+        "ans": "Supaya kelihatan lebih bergaya ",
+        "img": "none"
+      },
+      {
+        "ans": "Dapat mengenali kawan baru ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Apakah tindakan yang diambil apabila kenderaan yang dipandu terbabas ke bahu jalan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Bertenang dan naik semula ke atas jalan secara perlahan ",
+        "img": "none"
+      },
+      {
+        "ans": "Berhenti dan menelefon polis ",
+        "img": "none"
+      },
+      {
+        "ans": "Meningkatkan kelajuan dan memandu balik ke atas jalan raya ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Apakah cara pemanduan yang boleh menyebabkan kemalangan berlaku?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memandu dengan berhati-hati ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengikut arahan lampu isyarat dengan selamat ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu secara melulu tanpa timbang rasa ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "question": "Bagaimanakah perasaan marah diatasi semasa memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memotong semua kenderaan di laluan anda ",
+        "img": "none"
+      },
+      {
+        "ans": "Berhenti di tempat yang selamat sehingga anda kembali tenang ",
+        "img": "none"
+      },
+      {
+        "ans": "Menguatkan bunyi radio dalam kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Mengapakah pemandu memasang lampu tinggi pada waktu malam akan membahayakan pemandu lain dari arah hadapan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Pemandu kenderaan tersebut akan meningkatkan kelajuan ",
+        "img": "none"
+      },
+      {
+        "ans": "Pemandu kenderaan tersebut tidak dapat melihat halangan di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Pemandu kenderaan tersebut akan menyalakan lampu tinggi juga ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "question": "Apakah kegunaan brek tangan kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menukar gear ",
+        "img": "none"
+      },
+      {
+        "ans": "Memastikan kenderaan itu tidak bergerak ",
+        "img": "none"
+      },
+      {
+        "ans": "Meningkatkan kelajuan semasa memandu ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "question": "Apakah tindakan pemandu semasa mendaki bukit yang tinggi?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menggunakan brek tangan dan klac ",
+        "img": "none"
+      },
+      {
+        "ans": "Menggunakan gear rendah ",
+        "img": "none"
+      },
+      {
+        "ans": "Menggunakan brek kaki ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "question": "Apakah keadaan untuk pemandu memotong kenderaan di hadapan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Apabila kenderaan di hadapan bergerak terlalu perlahan ",
+        "img": "none"
+      },
+      {
+        "ans": "Apabila polis traffik di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Apabila melumba dengan kenderaan di hadapan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "question": "Apakah lorong yang sesuai untuk membelok kiri apabila menghampiri bulatan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Lorong tengah ",
+        "img": "none"
+      },
+      {
+        "ans": "Lorong kiri ",
+        "img": "none"
+      },
+      {
+        "ans": "Lorong kanan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "question": "Apakah keadaan pemandu perlu menggunakan lampu tinggi?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Apabila memandu di waktu malam dan tiada kenderaan dari arah hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Apabila memandu di bawah matahari yang terik ",
+        "img": "none"
+      },
+      {
+        "ans": "Apabila kenderaan rosak ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "question": "Apakah tindakan pemandu yang sepatutnya apabila cermin hadapan kenderaan pecah semasa memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Berhenti serta-merta dan mengenal pasti keadaan kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Perlahankan kenderaan dan melihat keluar melalui tingkap dan berhenti di tempat yang selamat ",
+        "img": "none"
+      },
+      {
+        "ans": "Pecahkan cermin sambil memandu sehingga ke bengkel yang berdekatan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "question": "Apakah tindakan yang perlu dilakukan semasa memandu di selekoh tajam?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mengurangkan kelajuan dan berada di lorong kanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Menambahkan kelajuan dan berada di lorong tengah ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengurangkan kelajuan dan berada di lorong kiri ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "question": "Apakah tempat yang dibenarkan memotong kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Di jalan lurus dengan garisan putus-putus ",
+        "img": "none"
+      },
+      {
+        "ans": "Di kawasan sekolah ",
+        "img": "none"
+      },
+      {
+        "ans": "Di jalan hadapan balai polis dengan garisan kembar ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "question": "Mengapakah pemandu harus melaraskan cermin sisi?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Supaya dapat melihat cuaca di langit ",
+        "img": "none"
+      },
+      {
+        "ans": "Supaya dapat melihat kenderaan yang datang dari arah belakang ",
+        "img": "none"
+      },
+      {
+        "ans": "Supaya dapat melihat muka sendiri ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "question": "Bagaimanakah mengelak membrek secara mengejut semasa memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mengekori kenderaan di hadapan dengan jarak sifar ",
+        "img": "none"
+      },
+      {
+        "ans": "Memastikan jarak mengekori yang selamat ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan laju semasa menghampiri lampu isyarat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "question": "Mengapakah pelanggaran dengan kenderaan dari arah hadapan boleh berlaku?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Cuaca yang baik ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan kelajuan yang ditetapkan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu ke sebelah kanan jalan raya ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "question": "Apakah tindakan yang harus diambil sebelum keluar dari kenderaan yang berhenti di tepi jalan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Membunyikan hon untuk memberitahu pemandu lain bahawa anda ingin keluar ",
+        "img": "none"
+      },
+      {
+        "ans": "Membuka pintu serta-merta dan keluar ",
+        "img": "none"
+      },
+      {
+        "ans": "Melihat cermin sisi dan memastikan tiada kenderaan lain dari belakang ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "question": "Hydroplaning berlaku disebabkan oleh apa?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Jalan yang kasar ",
+        "img": "none"
+      },
+      {
+        "ans": "Jalan yang berlubang ",
+        "img": "none"
+      },
+      {
+        "ans": "Jalan yang ditangkungi air ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "question": "Apakah tindakan yang harus diambil apabila memandu dalam keadaan hujan lebat dan jalan sukar dilihat?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Meningkatkan kelajuan kenderaan dan menyalakan lampu tinggi ",
+        "img": "none"
+      },
+      {
+        "ans": "Memberhentikan kenderaan di tempat yang selamat sehingga hujan berhenti ",
+        "img": "none"
+      },
+      {
+        "ans": "Meneruskan perjalanan dengan perlahan dan membunyikan hon ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "question": "Apakah kesan kepada pemandu yang menelefon semasa memandu tanpa menggunakan bantuan alat bebas tangan(hands free kit)?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Lebih tumpuan semasa memandu ",
+        "img": "none"
+      },
+      {
+        "ans": "Kurang tumpuan kepada pemanduan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan selamat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "question": "Mengapakah pemandu perlu mengamalkan pemanduan berhemah?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Untuk mengelakkan berlakunya kemalangan jalan raya ",
+        "img": "none"
+      },
+      {
+        "ans": "Untuk menjimatkan minyak ",
+        "img": "none"
+      },
+      {
+        "ans": "Untuk dipuji ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "question": "Apakah yang harus dijangka semasa menghampiri selekoh tajam?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Hujan secara tiba-tiba ",
+        "img": "none"
+      },
+      {
+        "ans": "Terdapat halangan dan kenderaan dari hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Hanya anda yang sedang menggunakan jalan tersebut ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "question": "Peraturan 2 saat harus digunakkan pada masa apa?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Apabila mengekori kenderaan lain ",
+        "img": "none"
+      },
+      {
+        "ans": "Apabila memotong kenderaan di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Apabila berhenti ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "question": "Apakah yang harus dibuat apabila lampu isyarat berwarna kuning?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mengurangkan kelajuan ",
+        "img": "none"
+      },
+      {
+        "ans": "Meneruskan perjalanan sambil membunyikan hon ",
+        "img": "none"
+      },
+      {
+        "ans": "Menambahkan kelajuan sebelum bertukar merah ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "question": "Mengapakah pemandu sukar menjangka kelajuan dan jarak kenderaan dari arah hadapan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kerana memandu pada waktu malam semasa hujan lebat ",
+        "img": "none"
+      },
+      {
+        "ans": "Kerana memandu semasa cuaca baik ",
+        "img": "none"
+      },
+      {
+        "ans": "Kerana memandu di bawah matahari yang terik ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "question": "Apakah tempat yang sesuai untuk meletakkan kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Di simpang jalan ",
+        "img": "none"
+      },
+      {
+        "ans": "Di tepi bulatan ",
+        "img": "none"
+      },
+      {
+        "ans": "Di tempat letak kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "question": "Apakah cara memandu yang selamat ketika di selekoh?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memandu dengan cepat ",
+        "img": "none"
+      },
+      {
+        "ans": "Membunyikan hon dengan ganas ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengurangkan kelajuan dan menggunakan gear yang sesuai ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "question": "Apakah keadaan yang mengizinkan pemandu memotong kenderaan di hadapan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Apabila kenderaan di hadapan menukar haluan ke kiri ",
+        "img": "none"
+      },
+      {
+        "ans": "Apabila kenderaan di hadapan mematuhi had laju yang ditetapkan ",
+        "img": "none"
+      },
+      {
+        "ans": "Apabila kenderaan di hadapan meningkatkan kelajuan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "question": "Apakah yang harus diperhati semasa memandu di kawasan perumahan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kanak-kanak akan muncul secara tiba-tiba ke laluan anda ",
+        "img": "none"
+      },
+      {
+        "ans": "Bunga di kawasan perumahan tersebut ",
+        "img": "none"
+      },
+      {
+        "ans": "Cuaca di kawasan perumahan tersebut ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "question": "Apakah yang harus dilakukan apabila memandu di jalan yang licin?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Meneruskan perjalanan dan menyalakan lampu tinggi ",
+        "img": "none"
+      },
+      {
+        "ans": "Menambahkan kelajuan dan beredar dari jalan yang licin secepat mungkin ",
+        "img": "none"
+      },
+      {
+        "ans": "Memperlahankan kenderaan supaya mudah dikawal ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "question": "Bagaimanakah kemalangan yang berpunca daripada keadaan jalan dapat dielakkan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menyesuaikan kelajuan mengikut keadaan jalan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memasang lampu tinggi dan bunyikan hon ",
+        "img": "none"
+      },
+      {
+        "ans": "Meningkatkan kelajuan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "question": "Apakah tindakan yang patut dilakukan apabila lampu isyarat bertukar daripada hijau kepada kuning?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Perlahankan kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Meneruskan perjalanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Meningkatkan kelajuan kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "question": "Apakah cara yang selamat untuk membuat pusingan balik(U-turn)?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Ikut lorong kiri, berhenti dan berpusing balik apabila selamat ",
+        "img": "none"
+      },
+      {
+        "ans": "Ikut lorong kanan dan buat pusingan balik dengan serta-merta ",
+        "img": "none"
+      },
+      {
+        "ans": "Ikut lorong sebelah kanan, berikan isyarat yang betul, perlahankan kenderaan dan buat pusingan balik apabila selamat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "question": "Apakah yang perlu diamal oleh pemandu sebelum memotong kenderaan lain?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mengamalkan peraturan 12 saat ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengamalkan peraturan 1 saat ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengamalkan peraturan 3 saat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "question": "Mengapakah pakaian yang berwana cerah dan berkebolehan memantul cahaya dapat mengurangkan risiko kemalangan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Membantu pengguna jalan raya lain menyedari kehadiran anda ",
+        "img": "none"
+      },
+      {
+        "ans": "Melahirkan bintang baru ",
+        "img": "none"
+      },
+      {
+        "ans": "Lebih bergaya semasa memandu ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "question": "Apakah cara pemanduan yang selamat di kawasan persimpangan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Perlahankan kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Menyalakan lampu tinggi ",
+        "img": "none"
+      },
+      {
+        "ans": "Menggunakan gear tinggi ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "question": "Pilih pernyataan yang menunjukkan kawasan jalan sedang dibaiki.",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Tiada sebarang tanda isyarat lalu lintas sementara ",
+        "img": "none"
+      },
+      {
+        "ans": "Sesak jalan ",
+        "img": "none"
+      },
+      {
+        "ans": "Banyak peralatan pembinaan diletakkan di bahu jalan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "question": "Apakah peraturan jarak sebelum memotong kenderaan di hadapan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Peraturan 2 saat ",
+        "img": "none"
+      },
+      {
+        "ans": "Peraturan 1 saat ",
+        "img": "none"
+      },
+      {
+        "ans": "Peraturan 10 saat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "question": "Bagaimankakah kenderaan dapat dihentikan jika brek gagal berfungsi secara tiba-tiba?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Tukar kepada gear rendah untuk memperlahankan kenderaan dan tarik brek tangan secara beransur-ansur ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu ke arah halangan dan melanggar sehingga berhenti ",
+        "img": "none"
+      },
+      {
+        "ans": "Membebaskan gear dan memandu ke atas bahu jalan sehingga berhenti ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "question": "Apakah yang perlu dibuat apabila menukar gear semasa memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Melihat cuaca di luar tingkap ",
+        "img": "none"
+      },
+      {
+        "ans": "Memerhatikan penumapang di belakang ",
+        "img": "none"
+      },
+      {
+        "ans": "Memberi tumpuan ke arah jalan di hadapan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "question": "Bagaimanakah kenderaan dapat dipastikan dalam keadaan baik?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mencuci kenderaan setiap hari ",
+        "img": "none"
+      },
+      {
+        "ans": "Memastikan brek, lampu dan hon kenderaan dalam keadaan baik ",
+        "img": "none"
+      },
+      {
+        "ans": "Menukar minyak enjin setiap minggu ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "question": "Apakah yang perlu dibuat semasa memandu pada waktu hujan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memasang lampu kenderaan dan memandu dengan berhati-hati ",
+        "img": "none"
+      },
+      {
+        "ans": "Memasang lampu kenderaan dan berhenti ",
+        "img": "none"
+      },
+      {
+        "ans": "Menutup lampu kenderaan dan menambahkan kelajuan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "question": "Mengapakah kemalangan jalan raya mudah berlaku?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memandu dengan berhati-hati ",
+        "img": "none"
+      },
+      {
+        "ans": "Tidak mencuci kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan laju semasa hujan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "question": "Apakah tindakan yang diambil apabila pemandu kenderaan di hadapan memberikan isyarat membelok ke kanan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menyalakan lampu tinggi supaya kenderaan tersebut membelok ke kanan serta-merta ",
+        "img": "none"
+      },
+      {
+        "ans": "Berikan isyarat untuk memotong di sebelah kanan dan membunyikan hon ",
+        "img": "none"
+      },
+      {
+        "ans": "Berikan isyarat untuk memotong di sebelah kiri dan meneruskan perjalanan jika selamat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "question": "Mengapakah badan berasa letih semasa memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memandu selepas tidur yang mencukupi ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu pada waktu pagi ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu terlalu lama tanpa rehat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "question": "Apakah tindakan yang diambil apabila kenderaan yang sedang anda potong menambahkan kelajuan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Meningkatkan kelajuan sambil memotong ",
+        "img": "none"
+      },
+      {
+        "ans": "Memperlahankan kenderaan dan masuk semula ke kiri jalan ",
+        "img": "none"
+      },
+      {
+        "ans": "Melanggar kenderaan tersebut ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "question": "Apakah tindakan yang diambil sebelum bergerak ke kanan untuk memotong?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kenderaan anda perlu berada pada gear yang sesuai ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengamalkan peraturan 2 saat sebelum memotong ",
+        "img": "none"
+      },
+      {
+        "ans": "Membunyikan hon dan menambahkan kelajuan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "question": "Manakah tempat yang bahaya untuk memotong kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Lebuh raya ",
+        "img": "none"
+      },
+      {
+        "ans": "Di jalan lurus dengan garisan putus-putus ",
+        "img": "none"
+      },
+      {
+        "ans": "Jalan berselekoh ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "question": "Apakah tindakan yang diambil apabila memotong lori panjang?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Membunyikan hon dan mengurangkan kelajuan kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Menyalakan lampu tinggi dan memotong dengan kelajuan biasa ",
+        "img": "none"
+      },
+      {
+        "ans": "Menggunakan gear yang sesuai dan tambah kelajuan kenderaan anda ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "question": "Apakah sikap pemandu yang boleh menyebabkan kemalangan berlaku?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Bersikap tidak sabar ",
+        "img": "none"
+      },
+      {
+        "ans": "Bertimbang rasa ",
+        "img": "none"
+      },
+      {
+        "ans": "Berhati-hati ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "question": "Apakah tindakan yang harus diambil apabila kenderaan di belakang ingin memotong kenderaan anda?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memperlahankan kenderaan anda dan memberikan ruang jalan untuk dipotong ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu ke kanan untuk dipotong ",
+        "img": "none"
+      },
+      {
+        "ans": "Berhenti serta-merta ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "question": "Apakah sikap pemanduan yang baik dan patut dicontohi?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mematuhi peraturan lalu lintas ",
+        "img": "none"
+      },
+      {
+        "ans": "Sentiasa melumba di jalan raya ",
+        "img": "none"
+      },
+      {
+        "ans": "Menelefon sambil memandu ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "question": "Apakah yang perlu dilakukan sebelum memulakan perjalanan jauh?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Tidur dan rehat secukupnya ",
+        "img": "none"
+      },
+      {
+        "ans": "Makan dan minum secara besar-besaran ",
+        "img": "none"
+      },
+      {
+        "ans": "Menonton televisyen sampai keesokan hari dan bertolak ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "question": "Apakah yang harus dibuat sebelum menghidupkan enjin kereta?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menekan pedal pemecut ",
+        "img": "none"
+      },
+      {
+        "ans": "Memastikan gear dalam keadaan bebas ",
+        "img": "none"
+      },
+      {
+        "ans": "Membunyikan hon dengan kuat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "question": "Apakah cara yang betul bagi pelan tindakan halangan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Bertindak mengikut keadaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memberi isyarat dan bergerak serta-merta ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengenal pasti, meramalkan, membuat keputusan dan bertindak ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "question": "Manakah yang berikut tidak berkaitan dengan 10 peraturan memotong di bawah konsep Pemanduan Berhemah?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Perlahankan kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memberikan isyarat ",
+        "img": "none"
+      },
+      {
+        "ans": "Berkomunikasi ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "question": "Apakah cara pemanduan yang betul ketika memandu di lebuh raya berdasarkan konsep pemanduan berhemah?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memandu di mana-mana lorong sesuka hati ",
+        "img": "none"
+      },
+      {
+        "ans": "Meneruskan perjalanan walaupun mengantuk ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu di lorong kiri jika tidak memotong ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "question": "Apakah tindakan yang harus diambil semasa memandu jika melihat orang buta sedang melintas di hadapan anda?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kurangkan kelajuan dan berhenti untuk membenarkannya melintas ",
+        "img": "none"
+      },
+      {
+        "ans": "Menjemput dia menumpang kenderaan anda ",
+        "img": "none"
+      },
+      {
+        "ans": "Membunyikan hon dan teruskan perjalanan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "question": "Bagaimanakan memandu secara tergesa-gesa untuk tiba ke destinasi dapat dielakkan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Merancang perjalanan anda supaya mempunyai waktu yang mencukupi ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu pada waktu malam sahaja bagi mengelakkan kesesakan lalu lintas ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu pada waktu tengah malam kerana tiada kenderaan lain ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "question": "Apakah tujuan pemandu yang berhemah untuk menjangka dan mengenal pasti bahaya atau halangan semasa memandu kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Bersedia bagi mengelakkan kemalangan ",
+        "img": "none"
+      },
+      {
+        "ans": "Lebih cepat sampai ke destinasi ",
+        "img": "none"
+      },
+      {
+        "ans": "Memberi amaran kepada kenderaan lain ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "question": "Pemandu boleh mengalihkan pandangan untuk apa?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Membuat panggilan telefon ",
+        "img": "none"
+      },
+      {
+        "ans": "Melihat cermin pandang belakang dan cermin sisi ",
+        "img": "none"
+      },
+      {
+        "ans": "Melihat penumpang di belakang ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "question": "Apakah tindakan yang diambil apabila melihat tanda isyarat lalu lintas bahu jalan lembut?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Berhati-hati dan perlahankan kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Menambahkan kelajuan ",
+        "img": "none"
+      },
+      {
+        "ans": "Membunyikan hon dan teruskan perjalanan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "question": "Mengapakah perlanggaran antara dua buah kenderaan semasa memotong berlaku?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Pemandu tidak mematuhi peraturan memotong ",
+        "img": "none"
+      },
+      {
+        "ans": "Pemandu telah mengamalkan peraturan dua saat ",
+        "img": "none"
+      },
+      {
+        "ans": "Pemandu telah memberikan isyarat yang mencukupi ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "question": "Apakah tindakan yang harus diambil sekiranya tayar belakang kenderaan anda pecah semasa memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Membunyikan hon dan menambahkan kelajuan ke kedai tayar ",
+        "img": "none"
+      },
+      {
+        "ans": "Meneruskan perjalanan ke kedai tayar yang berdekatan ",
+        "img": "none"
+      },
+      {
+        "ans": "Membrek perlahan-lahan, mengawal kenderaan dan menuju ke bahu jalan yang rata ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "question": "Mengapakah pemandu dibenarkan memotong kenderaan di sebelah kiri?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kenderaan di hadapan ingin membelok ke kanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan di hadapan berhenti ",
+        "img": "none"
+      },
+      {
+        "ans": "Kesukaan pemandu ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "question": "Apakah tindakan yang harus diambil semasa memandu di tempat yang tidak dikenali?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Sentiasa memandang sekeliling kawasan semasa memandu ",
+        "img": "none"
+      },
+      {
+        "ans": "Perlahanan kenderaan dan memandu dengan berhati-hati bagi menghadapi sebarang halangan ",
+        "img": "none"
+      },
+      {
+        "ans": "Menggunakan lampu kecemasan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "question": "Bagaimanakah kenderaan yang anda pandu terbabas di selekoh?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kenderaan kotor ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan kelajuan yang tinggi ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengurangkan kelajuan semasa menghampiri selekoh ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "question": "Mengapakah kemalangan berlaku di jalan yang lurus?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kenderaan dipandu terlalu laju ",
+        "img": "none"
+      },
+      {
+        "ans": "Cuaca yang baik ",
+        "img": "none"
+      },
+      {
+        "ans": "Tidak mencuci kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "question": "Pemandu dibenarkan membunyikan hon di mana?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kawasan hospital ",
+        "img": "none"
+      },
+      {
+        "ans": "Ketika melihat binatang berlari di jalan raya ",
+        "img": "none"
+      },
+      {
+        "ans": "Ketika hendak memotong ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "question": "Apakah kegunaan perlindungan insurans kenderaan motor?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memastikan kenderaan tidak rosak ",
+        "img": "none"
+      },
+      {
+        "ans": "Memberi pampasan kepada pihak yang terlibat dalam kemalangan ",
+        "img": "none"
+      },
+      {
+        "ans": "Meningkatkan kadar kemalangan jalan raya ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "question": "Apakah tindakan yang perlu dilakukan apabila berasa letih ketika memandu di lebuh raya?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Meneruskan perjalanan seperti biasa ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu sambil menyanyi atau bercakap telefon ",
+        "img": "none"
+      },
+      {
+        "ans": "Berhenti rehat di Kawasan Rehat Dan Rawat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "question": "Apakah kesan kepada pemandu yang mengambil alkohol secara berlebihan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Meningkatkan semangat ",
+        "img": "none"
+      },
+      {
+        "ans": "Melambatkan masa tindak balas ",
+        "img": "none"
+      },
+      {
+        "ans": "Meningkatkan kebolehan memandu ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "question": "Mengapakah warga tua yang berjalan kaki perlu diberikan lebih perhatian?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mereka kurang sabar ",
+        "img": "none"
+      },
+      {
+        "ans": "Mereka suka melintas secara melulu ",
+        "img": "none"
+      },
+      {
+        "ans": "Pendengaran dan penglihatan mereka kurang baik ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "question": "Apakah yang perlu dijangka apabila melihat murid-murid turun dari bas sekolah di hadapan kenderaan anda?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Murid-murid sekolah akan memastikan keadaan selamat sebelum melintas ",
+        "img": "none"
+      },
+      {
+        "ans": "Murid-murid sekolah akan berlari melintas jalan ",
+        "img": "none"
+      },
+      {
+        "ans": "Murid-murid sekolah akan menyanyi ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "question": "Apakah maksud peraturan 2 saat?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Peraturan semasa mendaki bukit ",
+        "img": "none"
+      },
+      {
+        "ans": "Peraturan semasa mengekori kederaan di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Peraturan semasa memotong kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "question": "Manakah tempat yang dilarang meletak kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Petak meletak kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Pili bomba ",
+        "img": "none"
+      },
+      {
+        "ans": "Kawasan Rehat dan Rawat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "question": "Apakah perkara yang perlu dirancang sebelum memulakan perjalanan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Makan sarapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memeriksa keadaan kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Mencuci kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "question": "Apakah peraturan di persimpangan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Berhentikan kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Menambahkan kelajuan ",
+        "img": "none"
+      },
+      {
+        "ans": "Menyalakan lampu tinggi ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "question": "Mengapakah pemandu perlu memakai tali pinggang keledar semasa memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Untuk mengelak dari disaman oleh polis ",
+        "img": "none"
+      },
+      {
+        "ans": "Untuk mengelak ditarik keluar dari kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Untuk keselamatan pemandu semasa memandu ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "question": "Apakah tindakan yang perlu dilakukan apabila lampu isyarat kuning bertukar kepada warna merah?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memberhentikan kenderaan di belakang garisan putih dengan selamat ",
+        "img": "none"
+      },
+      {
+        "ans": "Membunyikan hon dan teruskan perjalanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Berhenti serta-merta di tengah jalan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "question": "Apakah tindakan yang betul berkaitan dengan penggunaan gear?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Tukar kepada gear rendah semasa memotong kenderaan di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Tukar kepada gear bebas semasa menurun bukit ",
+        "img": "none"
+      },
+      {
+        "ans": "Tukar kepada gear rendah semasa mendaki bukit ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "question": "Apakah faktor utama yang menyebabkan kemalangan berlaku pada waktu malam?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Cuaca yang panas ",
+        "img": "none"
+      },
+      {
+        "ans": "Silauan cahaya ",
+        "img": "none"
+      },
+      {
+        "ans": "Jalan yang sibuk ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "question": "Apakah tindakan yang harus diambil apabila kenderaan anda sedang dipotong oleh kenderaan lain?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Melumba dengan kenderaan tersebut ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengurangkan kelajuan ",
+        "img": "none"
+      },
+      {
+        "ans": "Membunyikan hon ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "question": "Apakah maksud untuk mengenal pasti dalam konsep pemanduan berhemah?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mengenal pasti kenderaan dalam keadaan bersih ",
+        "img": "none"
+      },
+      {
+        "ans": "Merancang sebelum memulakan perjalanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengenal pasti semua keadaan yang boleh menyebabkan seseorang terlibat dalam kemalangan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "question": "Bagaimanakah kemalangan dapat dielak semasa lalu lintas dalam keadaan sibuk?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Berpakaian warna cerah dan meningkatkan kelajuan kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Merancang perjalanan dengan menggunakan jalan yang kurang sibuk atau memulakan perjalanan lebih awal ",
+        "img": "none"
+      },
+      {
+        "ans": "Menyalakan lampu tinggi semasa memandu ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "question": "Apakah tindakan yang diambil apabila melihat tanda isyarat ''BERI LALUAN''?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Teruskan perjalanan dan membunyikan hon ",
+        "img": "none"
+      },
+      {
+        "ans": "Perlahankan kenderaan dan berikan laluan kepada kenderaan dari belakang ",
+        "img": "none"
+      },
+      {
+        "ans": "Perlahankan kenderaan dan berikan laluan kepada kenderaan dari kanan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "question": "Apakah tindakan yang diambil semasa memandu di lebuh raya tiga lorong yang mempunyai tanda isyarat lalu lintas yang bermaksud ''Lorong Di Sebelah Kiri Semakin Sempit''?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Perlahankan kenderaan dan berikan laluan kepada kenderaan di sebelah kanan sebelum bertukar lorong ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengekalkan kelajuan dan menukar ke lorong kanan secara melulu ",
+        "img": "none"
+      },
+      {
+        "ans": "Menambahkan kelajuan dan menukar ke lorong kanan serta-merta ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "question": "Bagaimanakah perlanggaran dengan kenderaan di hadapan dapat dielakkan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memotong kenderaan di hadapan yang bergerak perlahan secepat mungkin ",
+        "img": "none"
+      },
+      {
+        "ans": "Memerhatikan kenderaan di hadapan dan mematuhi peraturan jarak ",
+        "img": "none"
+      },
+      {
+        "ans": "Memerhatikan kenderaan di belakang supaya anda tidak perlu membrek secara mengejut ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "question": "Apakah maksud ''merancang perjalanan''?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Membawa makanan dan minuman yang mencukupi ",
+        "img": "none"
+      },
+      {
+        "ans": "Menggunakan laluan kecemasan jika berlaku kesesakan lalu lintas ",
+        "img": "none"
+      },
+      {
+        "ans": "Merancang waktu perjalanan yang cukup dan tidak tergesa-gesa ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "question": "Apakah peraturan yang diikuti semasa memotong kenderaan di hadapan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "10 peraturan memotong ",
+        "img": "none"
+      },
+      {
+        "ans": "3 peraturan memotong ",
+        "img": "none"
+      },
+      {
+        "ans": "8 peraturan memotong ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "question": "Bagaimanakah kemalangan boleh dielakkan semasa mengundur kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mengundur sesuka hati ",
+        "img": "none"
+      },
+      {
+        "ans": "Melihat hadapan semasa mengundur untuk memastikan tiada kenderaan mengundur ",
+        "img": "none"
+      },
+      {
+        "ans": "Melihat cermin pandang belakang dan cermin sisi sebelum mengundur ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "question": "Apakah tindakan yang diambil apabila terkena silaun cahaya lampu semasa memandu pada waktu malam?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menutup mata ",
+        "img": "none"
+      },
+      {
+        "ans": "Memakai kanta mata hitam ",
+        "img": "none"
+      },
+      {
+        "ans": "Perlahankan kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "question": "Apakah yang harus dipatuhi apabila berada di persimpangan jalan yang dikawal oleh lampu isyarat?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mematuhi masa yang hampir lewat ke destinasi ",
+        "img": "none"
+      },
+      {
+        "ans": "Menggunakan gear tinggi dan meningkatkan kelajuan ",
+        "img": "none"
+      },
+      {
+        "ans": "Mematuhi lampu isyarat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "question": "Apakah tindakan yang harus diambil apabila berhenti di cerun bukit?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menekan pedal brek dan menukar ke gear lima ",
+        "img": "none"
+      },
+      {
+        "ans": "Menekan pedal brek dan menarik brek tangan ",
+        "img": "none"
+      },
+      {
+        "ans": "Menekan pedal klac dan menarik brek tangan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "question": "Apakah tindakan yang harus diambil apabila bonet kenderaan terbuka ketika memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Berhentikan kenderaan dengan serta-merta dan menutup bonet kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Brek beransur-ansur menuju ke bahu jalan dan lihat melalui tingkap untuk panduan arah ",
+        "img": "none"
+      },
+      {
+        "ans": "Meneruskan perjalanan sambil menutup bonet ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "question": "Apakah sikap dapat dibentuk daripada merancang perjalanan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Ketidaksabaran ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu secara tergesa-gesa ",
+        "img": "none"
+      },
+      {
+        "ans": "Berhemah dan tidak tergesa-gesa ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "question": "Apakah tindakan yang perlu diambil apabila melihat bas sekolah berhenti di tepi jalan sambil memasang lampu kecemasan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memandu dengan lebih berhati-hati dan berhenti jika perlu ",
+        "img": "none"
+      },
+      {
+        "ans": "Menyalakan lampu tinggi dan membunyikan hon ",
+        "img": "none"
+      },
+      {
+        "ans": "Memotong bas sekolah tersebut secepat mungkin ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "question": "Apakah tindakan yang betul semasa memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mematuhi peraturan lalu lintas ",
+        "img": "none"
+      },
+      {
+        "ans": "Memotong kenderaan lain sesuka hati ",
+        "img": "none"
+      },
+      {
+        "ans": "Sentiasa melumba dengan kenderaan lain ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "question": "Apakah tindakan yang perlu diambil di persimpangan jalan yang mempunyai lampu isyarat semasa berhenti dan menunggu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Tekan pedal klac dan pedal pemecut serentak ",
+        "img": "none"
+      },
+      {
+        "ans": "Tekan pedal brek dan pedal pemecut serentak ",
+        "img": "none"
+      },
+      {
+        "ans": "Tekan pedal brek, tekan pedal klac, tarik brek tangan, dan bebaskan gear ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "question": "Apakah faktor yang mempengaruhi pemanduan seorang pemandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kenderaan yang bergerak perlahan di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Keadaan jalan, lalu lintas, cuaca dan kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Cabaran dari pemandu lain untuk melumba ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "question": "Apakah yang perlu dijangka semasa memandu di belakang sebuah kenderaan yang menghampiri kawasan pembinaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kenderaan di hadapan mungkin memotong kenderaan lain ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan di hadapan akan mengubah haluan ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan di hadapan mungkin akan berhenti secara mengejut ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "question": "Apakah tindakan yang harus diambil apabila pedal pemecut tiba-tiba terlekat?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Bebaskan gear, berhenti di tepi jalan dan tutup suis pencucuh ",
+        "img": "none"
+      },
+      {
+        "ans": "Tekan pedal brek serta-merta dan matikan enjin ",
+        "img": "none"
+      },
+      {
+        "ans": "Teruskan perjalanan seperti biasa ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "question": "Apakah tindakan yang harus diambil apabila kenderaan anda sedang dipotong oleh kenderaan lain?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menambahkan kelajuan ",
+        "img": "none"
+      },
+      {
+        "ans": "Membunyikan hon ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengurangkan kelajuan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "question": "Apakah peraturan jarak yang selamat di antara dua buah kenderaan ketika mengekori kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Gunakan peraturan 8 saat ",
+        "img": "none"
+      },
+      {
+        "ans": "Gunakan peraturan 5 saat ",
+        "img": "none"
+      },
+      {
+        "ans": "Gunakan peraturan 2 saat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "question": "Apakah yang harus dibuat semasa memandu di kawasan perumahan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memandu sambil menyanyi ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu sambil berbual dengan pejalan kaki ",
+        "img": "none"
+      },
+      {
+        "ans": "Sentiasa memandu dengan lebih cermat dan berhati-hati ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "question": "Apakah empat peraturan untuk mengelakkan kemalangan dari hadapan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Lihat jalan hadapan, bertindak dengan bergerak ke kiri, kurangkan kelajuan dan pandu keluar daripada jalan raya ",
+        "img": "none"
+      },
+      {
+        "ans": "Lihat jalan belakang, bertindak dengan bergerak ke kanan, bunyikan hon dan nyalakan lampu hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Lihat jalan hadapan dan belakang, bunyikan hon, nyalakan lampu tinggi dan hentikan kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "question": "Kenderaan yang bergerak melalui kawasan lintasan pejalan kaki dikenali sebagai apa?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Pergerakan keluar ",
+        "img": "none"
+      },
+      {
+        "ans": "Pergerakan melintasi ",
+        "img": "none"
+      },
+      {
+        "ans": "Pergerakan bebas ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "question": "Apakah tindakan yang perlu diambil semasa mengundur kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mengundur sebaik sahaja bersedia ",
+        "img": "none"
+      },
+      {
+        "ans": "membunyikan hon dan menyalakan lampu tinggi semasa mengundur ",
+        "img": "none"
+      },
+      {
+        "ans": "Pastikan tiada halangan, undur perlahan-lahan dan bersedia untuk membrek jika perlu ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "question": "Apakah tindakan yang diambil apabila lampu hadapan kenderaan anda terpadam ketika memandu pada waktu malam?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Bunyikan hon, nyalakan lampu kecemasan dan teruskan perjalanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Berhenti serta-merta untuk membaiki lampu tersebut ",
+        "img": "none"
+      },
+      {
+        "ans": "Perlahankan kenderaan, memberi isyarat dan berhenti di bahu jalan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "question": "Apakah maksud ''pertimbang yang baik'' semasa memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mengambil tindakan yang sesuai mengikut keadaan lalu lintas, jalan dan cuaca ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu seperti biasa ",
+        "img": "none"
+      },
+      {
+        "ans": "Membiarkan pemandu lain yang mengambil tindakan untuk mengelakkan kemalangan berlaku ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "question": "Apakah tindakan yang perlu diambil untuk mengatasi masalah silaun lampu kenderaan lain pada waktu malam semasa memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Elakkan daripada melihat tepat ke arah lampu kenderaan yang datang dari arah hadapan dan perlahankan kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Menyalakan lampu tinggi dan membunyikan hon untuk melawan balik ",
+        "img": "none"
+      },
+      {
+        "ans": "Tutup mata ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "question": "Apakah sikap pemandu yang boleh mengelakkan kemalangan jalan raya berlaku?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memandu dengan laju ",
+        "img": "none"
+      },
+      {
+        "ans": "Memotong kiri dan kanan secara melulu ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan bersopan dan bertimbang rasa ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "question": "Apakah maksud bahaya semasa memandu di jalan raya?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Halangan di jalan seperti keadaan jalan yang tidak sempurna ",
+        "img": "none"
+      },
+      {
+        "ans": "Usia kenderaan yang tua ",
+        "img": "none"
+      },
+      {
+        "ans": "Tanda isyarat lalu lintas yang mencukupi di persimpangan jalan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "question": "Apakah yang harus dilakukan selepas mencuci tayar kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mencuba cengkaman brek supaya dapat dipastikan tahap cengkamanya ",
+        "img": "none"
+      },
+      {
+        "ans": "Menambahkan kelajuan kenderaan dan berhenti serta-merta untuk menguji brek ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu seperti biasa ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "question": "Siapakah pemandu berhemah?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Melumba di lebuh raya ",
+        "img": "none"
+      },
+      {
+        "ans": "Memotong kenderaan sesuka hati ",
+        "img": "none"
+      },
+      {
+        "ans": "Dapat menyesuaikan kelajuan mengikut keadaan jalan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "question": "Di manakah kawasan titik buta(blind spot) kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kawasan atas kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Kawasan di sebelah kiri dan kanan kenderaan anda yang tidak dapat dilihat melalui cermin pandang belakang dan sisi ",
+        "img": "none"
+      },
+      {
+        "ans": "Kawasan bawah kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "question": "Apakah yang dimaksudkan tentang halangan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Elemen yang dikenal pasti boleh mendatangkan bahaya ",
+        "img": "none"
+      },
+      {
+        "ans": "Elemen yang besar dan keras ",
+        "img": "none"
+      },
+      {
+        "ans": "Elemen yang menghalang jalan pemandu ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "question": "Apakah tindakan yang perlu diambil apabila bahagian hadapan kenderaan berasap dan meter penunjuk suhu meningkat semasa memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Teruskan perjalanan ke bengkel ",
+        "img": "none"
+      },
+      {
+        "ans": "Matikan enjin, tunggu enjin sejuk dan tambahkan air ke dalam radiator ",
+        "img": "none"
+      },
+      {
+        "ans": "Matikan enjin dan sembur air di sekeliling enjin ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "question": "Apakah tindakan yang diambil selepas terlibat dalam kemalangan semasa memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Bergaduh dengan pemandu lain ",
+        "img": "none"
+      },
+      {
+        "ans": "Membuat laporan kepada pihak polis dan syarikat insurans ",
+        "img": "none"
+      },
+      {
+        "ans": "Meneruskan perjalanan ke destinasi ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "question": "Mengapakah pemandu dilarang menggunakan lampu tinggi apabila mengekori kenderaan lain pada waktu malam?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Sukar menjangka jarak dengan kenderaan di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Menyilaukan mata pemandu kenderaan di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Suhu Meningkat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "question": "Apakah sikap terpuji yang harus dimiliki oleh setiap pemandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Tidak bertanggungjawab ",
+        "img": "none"
+      },
+      {
+        "ans": "Bertimbang rasa kepada pengguna jalan raya yang lain ",
+        "img": "none"
+      },
+      {
+        "ans": "Tidak menghiraukan keselamatan pengguna jalan raya yang lain ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "question": "Apakah maksud pemanduan sempurna?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Pemandu tidak memberi laluan kepada pemandu lain ",
+        "img": "none"
+      },
+      {
+        "ans": "Pemandu tidak mencuci kenderaan sebelum memulakan perjalanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Pemandu tidak melakukan kesalahan lalu lintas ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "question": "Apakah tindakan yang harus diambil sebelum memulakan perjalanan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memastikan makanan dan minuman yang cukup di dalam kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memastikan kenderaan bersih ",
+        "img": "none"
+      },
+      {
+        "ans": "Memastikan tekanan angin tayar yang mencukupi ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "question": "Apakah pedal untuk menghentikan motokar transmisi manual?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Pedal brek dan klac ",
+        "img": "none"
+      },
+      {
+        "ans": "Pedal brek dan pemecut ",
+        "img": "none"
+      },
+      {
+        "ans": "Pedal brek, pedal klac dan pedal pemecut ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "question": "Mengapakah pemandu dilarang meneruskan perjalanan di simpang walaupun mempunyai keutamaan jalan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Keputusan pemandu sendiri ",
+        "img": "none"
+      },
+      {
+        "ans": "Terdapat kenderaan bomba, polis atau ambulans melalui simpang tersebut ",
+        "img": "none"
+      },
+      {
+        "ans": "Tiada kenderaan lain di lalu lintas ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "question": "Apakah jarak dari perhentian bas yang membolehkan pemandu meletak kenderaan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "1 meter ",
+        "img": "none"
+      },
+      {
+        "ans": "20 meter ",
+        "img": "none"
+      },
+      {
+        "ans": "9 meter ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "question": "Apakah tindakan yang harus diambil jika kenderaan lain ingin memotong kenderaan anda?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menambahkan kelajuan dan menghimpit ke kanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Menambahkan kelajuan kenderaan dan membunyikan hon ",
+        "img": "none"
+      },
+      {
+        "ans": "Memperlahankan kenderaan dan menghimpit ke kiri jika perlu ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "question": "Bilakah tali pinggang keledar perlu dipakai?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Ketika ternampak polis ",
+        "img": "none"
+      },
+      {
+        "ans": "Sebelum memulakan perjalanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Selepas sampai ke destinasi ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "question": "Apakah tindakan yang harus diambil apabila tayar belakang kereta anda meletup semasa memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Brek serta-merta dan berhenti di tengah jalan ",
+        "img": "none"
+      },
+      {
+        "ans": "Membebaskan gear dan beransur-ansur berhenti di bahu jalan ",
+        "img": "none"
+      },
+      {
+        "ans": "Pegang stereng dengan kuat, brek perlahan-lahan, beri isyarat dan berhenti di bahu jalan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "question": "Apakah kesan penggunaan telefon bimbit tanpa alat bebas tangan(hands-free) semasa memandu di jalan raya?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Pemandu dapat menjangka halangan di sekeliling ",
+        "img": "none"
+      },
+      {
+        "ans": "Pemandu lebih bersemangat ",
+        "img": "none"
+      },
+      {
+        "ans": "Pemandu tidak memberikan sepenuh tumpuan semasa memandu ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "question": "Apakah tindakan yang tidak akan menyebabkan kenderaan terbabas?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Membelok secara pantas ",
+        "img": "none"
+      },
+      {
+        "ans": "Menukar lorong dengan kelajuan yang tinggi ",
+        "img": "none"
+      },
+      {
+        "ans": "Menggunkan gear rendah semasa menuruni bukit ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "question": "Apakah ciri pemandu yang berhemah?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Bertanggungjawab, bersabar dan berkeyakinan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan cepat di lorong kiri lebuh raya ",
+        "img": "none"
+      },
+      {
+        "ans": "Tidak bersopan dengan pemandu lain ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "question": "Mengapakah kita perlu sentiasa melihat cermin pandang belakang dan cermin sisi semasa memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Meramal cuaca ",
+        "img": "none"
+      },
+      {
+        "ans": "Tahu keadaan kenderaan di hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Tahu keadaan kenderaan di belakang ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "question": "Apakah tindakan yang harus diambil apabila memandu menghampiri kawasan lintasan kereta api tidak berpagar?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menambahkan kelajuan dan merentas sebelum ketibaan kereta api ",
+        "img": "none"
+      },
+      {
+        "ans": "Membunyikan hon semasa merentas ",
+        "img": "none"
+      },
+      {
+        "ans": "Perlahankan kenderaan dan pastikan kawasan tersebut selamat sebelum dilalui ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "question": "Lorong X ditutup kepada lalu lintas kerana sedang dibaiki. Apakah jawapan yang betul mengenai gambar tersebut?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kenderaan di lorong Y perlu memberi laluan kepada kenderaan di lorong X ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan di lorong X perlu memandu masuk ke lorong Y secara berselang-seli ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan di lorong X perlu memandu masuk ke lorong Y serta-merta ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "question": "Apakah jawapan yang betul mengenai gambar tersebut?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kenderaan B perlu memberi laluan kepada Kenderaan A ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan A perlu memberikan keutamaan kepada kenderaan B ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan A tidak perlu berhenti apabila melihat kenderaan B ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "question": "Apakah jawapan yang betul mengenai gambar tersebut?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kenderaan di lorong B perlu memberikan laluan kepada kenderaan di lorong A ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan di lorong A perlu memberikan laluan kepada kenderaan di lorong B ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan di lorong B boleh memasuki lorong A ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "question": "Apakah jawapan yang betul mengenai gambar tersebut?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kenderaan C berada di laluan yang betul ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan B berada di laluan yang betul ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderan D berada di laluan yang betul ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "question": "Apakah jawapan yang betul mengenai gambar tersebut?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kenderaan B memberi laluan kepada kenderaan C ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan B memberi laluan kepada kenderaan A ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan A memberi laluan kepada kenderaan C ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "question": "Manakah pernyataan yang salah mengenai gambar tersebut?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kenderaan B memberi laluan kepada A ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan A memberi laluan kepada B ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan C memberi laluan kepada B ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "question": "Apakah jawapan yang betul mengenai gambar tersebut?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kenderaan C perlu memberikan laluan kepada B ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan B perlu memberikan laluan kepada C ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan B perlu memberikan laluan kepada A ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "question": "Apakah jawapan yang betul mengenai gambar tersebut?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kenderaan B memberi laluan kepada kenderaan A ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan B memberi laluan kepada kenderaan C ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan A memberi laluan kepada kenderaan B ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "question": "Apakah tindakan yang perlu diambil oleh Pemandu A yang ingin membelok ke kanan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Membelok serta-merta tanpa mempedulikan kenderaan yang datang dari arah hadapan ",
+        "img": "none"
+      },
+      {
+        "ans": "Berikan isyarat ke kanan, berikan laluan kepada kenderaan dari arah hadapan dan membelok ",
+        "img": "none"
+      },
+      {
+        "ans": "Berikan laluan kepada kenderaan yang keluar dari simpang tersebut terlebih dahulu ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "question": "Berdasarkan gambar tersebut, apakah tindakan yang harus dilakukan oleh pemandu AB?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Membenarkan kenderaan AC dan AD meneruskan perjalanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Meneruskan perjalanan tanpa mempeduli AC dan AD ",
+        "img": "none"
+      },
+      {
+        "ans": "Membenarkan kenderaan AD meneruskan perjalanan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "question": "Apakah yang harus dibuat oleh pemandu sebelum tiba di simpang X?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Tidak perlu berhenti dan teruskan pusingan ",
+        "img": "none"
+      },
+      {
+        "ans": "Tidak perlu memberikan isyarat arah tuju ",
+        "img": "none"
+      },
+      {
+        "ans": "Berikan isyarat arah tuju, berhenti, pastikan tiada kenderaan dari laluan utama dan keluar ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "question": "Apakah tindakan yang betul bagi pemandu kenderaan A, B dan C?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kenderaan C mestilah memberikan laluan kepada kenderaan B dahulu sebelum meneruskan perjalanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan B mestilah memberikan laluan kepada kenderaan A dan C bagi meneruskan perjalanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan B dan C memberikan laluan kepada kenderaan bagi meneruskan perjalanan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "question": "Apakah tindakan yang mesti diambil oleh pemandu kenderaan A?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Pemandu kenderaan A mestilah berhenti dan menunggu sehingga pemandu kenderaan B memasuki simpang itu ",
+        "img": "none"
+      },
+      {
+        "ans": "Pemandu kenderaan A boleh membuat pusingan balik jika perlu ",
+        "img": "none"
+      },
+      {
+        "ans": "Pemandu kenderaan A terus keluar dari simpang walaupun pemandu kenderaan B tidak memberikan isyarat membelok ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "question": "Apakah tindakan yang betul mengenai gambar tersebut?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kenderaan B perlu memberikan laluan kepada kenderaan C ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan C perlu memberikan laluan kepada kenderaan B ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan C boleh meneruskan perjalanan selepas kenderaan A ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "question": "Apakah jawapan yang betul mengenai gambar tersebut?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Keutamaan kepada kenderaan A membelok terlebih dahulu ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan A dan B membelok ke simpang X dengan serentak ",
+        "img": "none"
+      },
+      {
+        "ans": "Keutamaan kepada kenderaan B membelok terlebih dahulu ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "question": "Apakah jawapan yang betul mengenai gambar tersebut?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kenderaan B perlu memberikan laluan kepada kenderaan A ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan B perlu memberikan laluan kepada kenderaan C ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan A perlu memberikan laluan kepada kenderaan B ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "question": "Apakah tindakan yang harus diambil sebagai pemandu kenderaan C?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Terus keluar tanpa mempedulikan kenderaan lain ",
+        "img": "none"
+      },
+      {
+        "ans": "Keluar dari simpang selepas kenderaan B berlalu ",
+        "img": "none"
+      },
+      {
+        "ans": "Keluar dari simpang selepas kenderaan A membelok ",
+        "img": "none"
+      }
+    ]
+  }
+]

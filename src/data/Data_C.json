@@ -1,0 +1,1275 @@
+[
+  {
+    "id": 1,
+    "question": "Apakah tempoh untuk Lesen Memandu Percubaan(PDL) bertukar kepada Lesen Memandu Kompeten(CDL) selepas tamat tempoh?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "3 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "5 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "1 tahun ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Lesen Memandu Kompeten(CDL) tidak boleh diperbaharui selepas tamat tempoh melebihi",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "3 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "5 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "2 tahun ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Berapakah umur yang layak untuk memohon Lesen Memandu Kelas B?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "21 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "18 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "16 tahun ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Apakah peraturan yang perlu dipatuhi oleh pemegang Lesen Belajar Memandu(LDL) semasa menunggang?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memakai topi keledar ",
+        "img": "none"
+      },
+      {
+        "ans": "Membawa kad ATM ",
+        "img": "none"
+      },
+      {
+        "ans": "Mempamerkan plat 'L' ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Apakah kelas lesen yang diperlukan untuk menunggang motosikal?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kelas C ",
+        "img": "none"
+      },
+      {
+        "ans": "Kelas A ",
+        "img": "none"
+      },
+      {
+        "ans": "Kelas B ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Berapakah kacar alkohol yang dibenarkan dalam pemeriksaan nafas bagi pemegang Lesen memandu Percubaan (PDL) semasa memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "35 mikrogram ",
+        "img": "none"
+      },
+      {
+        "ans": "80 mikrogram ",
+        "img": "none"
+      },
+      {
+        "ans": "0.00 mikrogram ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Manakah yang termasuk dalam kesalahan terjadual Sistem KEJARA?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memandu melebihi had laju ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu kenderaan yang tidak mempunyai perlindungan insurans ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu kenderaan yang tidak berdaftar ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Kesalahan manakah yang membolehkan Lesen Memandu Percubaan (PDL) dibatalkan di bawah Sistem KEJARA?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Tidak mencuci kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Tidak memandu kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Gagal mematuhi lampu isyarat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Apakah kelas lesen yang diperlukan untuk menunggang motosikal berkuasa melebihi 500sp(c.c)?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kelas B3 ",
+        "img": "none"
+      },
+      {
+        "ans": "Kelas E ",
+        "img": "none"
+      },
+      {
+        "ans": "Kelas B ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Apakah syarat bagi penunggang motosikal yang memegang Lesen Belajar Memandu(LDL)?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mempamerkan plat ''L'' di hadapan dan belakang motosikal ",
+        "img": "none"
+      },
+      {
+        "ans": "Mempamerkan plat ''L'' di kiri dan kanan motosikal ",
+        "img": "none"
+      },
+      {
+        "ans": "Mempamerkan plat ''P'' di hadapan dan belakang motosikal ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Berapakah umur yang layak untuk memohon Lesen Memandu Kenderaan Perkhidmatan Awam(BAS)?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "19 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "16 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "21 tahun ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Berapakah umur yang layak untuk memohon Lesen Memandu Kelas C?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "16 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "21 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "17 tahun ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Pilih jawapan yang betul.",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Lesen Kelas E - Bas ",
+        "img": "none"
+      },
+      {
+        "ans": "Lesen Kelas D - motosikal ",
+        "img": "none"
+      },
+      {
+        "ans": "Lesen Kelas A - Kereta ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Berapakah tempoh keputusan ujian Bahagian II dan III bagi tujuan permohonan lesen memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "1 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "5 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "3 tahun ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Berapakah umur yang layak untuk memohon Lesen Memandu Kelas D?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "21 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "18 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "17 tahun ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Manakah yang benar mengenai matlamat Sistem KEJARA?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memastikan pemandu pandai melumba semasa memandu ",
+        "img": "none"
+      },
+      {
+        "ans": "Meningkatkan kemudahan memotong di jalan raya ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengurangkan kadar kemalangan jalan raya ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Berapakah markah demerit dibawah yang tidak akan membatalkan pemegang Lesen Memandu Percubaan (PDL) di bawah Sistem KEJARA?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "21 mata ",
+        "img": "none"
+      },
+      {
+        "ans": "6 mata ",
+        "img": "none"
+      },
+      {
+        "ans": "20 mata ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Apakah tindakan yang boleh diambil apabila Lesen Memandu Percubaan(PDL) telah tamat tempoh melebihi satu tahun kerana anda berada di luar negara?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mengemukakan permohonan rayuan kepada Jabatan Pengangkuat Jalan Malaysia ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan lesen yang tamat tempoh ",
+        "img": "none"
+      },
+      {
+        "ans": "Mengambil ujian semula ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Apakah tahap kesihatan yang diperlukan oleh pemohon untuk mendapatkan lesen memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Sihat tubuh badan, boleh mendengar pada jarak 50 meter dan buta warna ",
+        "img": "none"
+      },
+      {
+        "ans": "Sihat tubuh badan, boleh melihat pada jarak 23 meter dan tidak buta warna ",
+        "img": "none"
+      },
+      {
+        "ans": "Sihat tubuh badan dan boleh melihat pada jarak 100 meter ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Apakah had laju kebangsaan untuk memandu kereta di lebuh raya?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "180km/j ",
+        "img": "none"
+      },
+      {
+        "ans": "110km/j ",
+        "img": "none"
+      },
+      {
+        "ans": "80km/j ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Berapa lamakah tempoh sah laku Lesen Belajar Memandu(LDL)?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "5 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "2 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "1 tahun ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Apakah syarat yang diperlukan sebelum Lesen Belajar Memandu(LDL) layak dikeluarkan kepada pemohon?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menghadiri kursus KPP 03 dan lulus ujian Bahagian I sahaja ",
+        "img": "none"
+      },
+      {
+        "ans": "Menghadiri kursus KPP 01 dan telah menghadiri KPP 02 ",
+        "img": "none"
+      },
+      {
+        "ans": "Menghadiri kursus KPP 01 dan lulus ujian Bahagian I ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Berapa lamakah tempoh sah laku Lesen Memandu Percubaan(PDL)?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "5 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "10 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "2 tahun ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Apakah kesalahan yang telah anda lakukan apabila menunggang motosikal dengan membawa bersama isteri dan seorang anak?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Membawa lebih daripada seseorang penumpang ",
+        "img": "none"
+      },
+      {
+        "ans": "Umur kanak-kanak tidak cukup ",
+        "img": "none"
+      },
+      {
+        "ans": "Tidak memakai topi keledar ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Apakah tindakan yang perlu dibuat sebelum menunggang motosikal?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Membawa muatan yang berlebihan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memakai dan mengikat tali topi keledar ",
+        "img": "none"
+      },
+      {
+        "ans": "Memakai pakaian yang gelap ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Sistem KEJARA dikuatkuasakan kepada:",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Pemegang lesen memandu percubaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Pemegang lesen memandu kompeten dan percubaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Pemegang lesen memandu kompeten ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Apakah tindakan yang diambil semasa Lesen Memandu Kompeten(CDL) digantung di bawah Sistem KEJARA?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Boleh memandu seperti biasa ",
+        "img": "none"
+      },
+      {
+        "ans": "Tidak boleh memandu kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Boleh memperbaharui lesen baru ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Di bawah Sistem KEJARA, kesalahan memandu dengan tidak cermat dan tidak bertimbang rasa bagi pemegangan Lesen PDL semasa memandu boleh menyebabkan:",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Lesen memandu digantung 3 bulan ",
+        "img": "none"
+      },
+      {
+        "ans": "Lesen memandu dibatalkan ",
+        "img": "none"
+      },
+      {
+        "ans": "Lesen memandu digantung 6 bulan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Siapakah yang perlu mengesahkan kelayakan memohon lesen memandu oleh calon Orang Kurang Upaya(OKU)?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Ketua Polis Negara ",
+        "img": "none"
+      },
+      {
+        "ans": "Hakim Mahkamah ",
+        "img": "none"
+      },
+      {
+        "ans": "Pengamal Peruabatan Berdaftar ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Apakah cara pemanduan yang menjadi kesalahan di bawah akta Pengangkutan Jalan 1987?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memandu melebihi had laju yang ditetapkan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan berhati-hati dan bertimbang rasa ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan mematuhi peraturan jalan raya ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Pilih jawapan yang betul mengenai syarat-syarat pemegang Lesen Belajar Memandu(LDL) kelas D.",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Pemegang Lesen Belajar Memandu kelas D perlu mempamerkan plat ''P'' ",
+        "img": "none"
+      },
+      {
+        "ans": "Pemegang Lesen Belajar Memandu kelas D tidak dibenarkan memandu seorang diri ",
+        "img": "none"
+      },
+      {
+        "ans": "Pemegang Lesen Belajar Memandu Kelas D dibenarkan memandu seorang diri ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Pilih jawapan yang BETUL mengenai syarat-syarat pemegang Lesen Belajar Memandu(LDL) kelas B2?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Pemegang Lesen Belajar Memandu Kelas B2 tidak boleh membawa pembonceng ketika menunggang ",
+        "img": "none"
+      },
+      {
+        "ans": "Pemegang Lesen Belajar Memandu kelas B2 tidak perlu mempamerkan plat ''L'' ",
+        "img": "none"
+      },
+      {
+        "ans": "Pemegang Lesen Belajar Memandu kelas B2 tidak dibenarkan menunggang seorang diri ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Apakah tindakan yang akan dikenakan ke atas pemegang Lesen Memandu Percubaan (PDL) yang telah mengumpul sebanyak 5 mata demerit di bawah Sistem KEJARA?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Lesen memandu percubaannya digantung selama 12 bulan ",
+        "img": "none"
+      },
+      {
+        "ans": "Lesen memandu percubaannya dibatalkan ",
+        "img": "none"
+      },
+      {
+        "ans": "Tiada tindakan pada lesen memandu ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Lesen Memandu percubaan(PDL) yang telah tamat tempoh hendaklah ditukarkan ke Lesen Memandu Kompeten(CDL) dalam tempoh:",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "1 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "3 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "5 tahun ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Apakah kesalahan yang tidak boleh disabitkan di bawah Akta Pengangkutan Jalan 1987?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memasang lampu motosikal pada siang hari ",
+        "img": "none"
+      },
+      {
+        "ans": "Tidak mempamerkan cukai jalan kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Tidak berhenti apabila ditahan oleh pemandu lain ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Apakah kesalahan yang akan dikenakan mata demerit di bawah Sistem KEJARA?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Gagal membawa sijil insurans ",
+        "img": "none"
+      },
+      {
+        "ans": "Tidak memakai tali pinggang keledar ",
+        "img": "none"
+      },
+      {
+        "ans": "Gagal mematuhi lampu isyarat ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Kesalahan pemegang Lesen Memandu Percubaan (PDL) memandu kenderaan dengan kepekatan alkohol melebihi had yang ditetapkan boleh menyebabkan lesen:",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Dibatalkan ",
+        "img": "none"
+      },
+      {
+        "ans": "Digantung 12 bulan ",
+        "img": "none"
+      },
+      {
+        "ans": "Digantung 6 bulan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Sila pilih kesalahan lalu lintas:",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Lampu isyarat tidak berfungsi ",
+        "img": "none"
+      },
+      {
+        "ans": "Radio rosak ",
+        "img": "none"
+      },
+      {
+        "ans": "Aircond tak sejuk ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Apakah tindakan yang paling tepat jika pemandu itu mabuk?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Meminta rakan yang tidak mabuk memandu kenderaan atau menggunakan kenderaan perkhidmatan awam ",
+        "img": "none"
+      },
+      {
+        "ans": "Meminta rakan duduk di tempat penumpang bagi menujukkan arah pulang ke rumah ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu kenderaan balik ke rumah dengan kawan-kawan yang lain ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Manakah berikut merupakan kesalahan lalu lintas?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memotong di garisan berkembar ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu ketika banjir ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan berhati-hati ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Apakah tempoh maksimum memperbaharui Lesen Memandu Kompeten(CDL)?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "10 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "1 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "5 tahun ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Berapa lamakah tempoh percubaan Lesen Memandu Percubaan(PDL)?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "5 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "3 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "2 tahun ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Berapakah umur yang layak untuk memohon Lesen Memandu Kompeten(CDL) Kelas E?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "15 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "18 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "21 tahun ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Lesen Belajar Memandu(LDL) boleh diperbaharui bagi temph 3 bulan atau 6 bulan dan mestilah tidak melebihi tempoh:",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Lima tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "Tiga tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "Dua tahun ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Berapakah tempoh sah bagi keputusan ujian untuk memohon lesen memandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "5 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "1 tahun ",
+        "img": "none"
+      },
+      {
+        "ans": "2 tahun ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Apakah jenis lesen yag dikeluarkan kepada pemandu Kenderaan Perkhidmatan Awam?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Lesen Memandu Kompeten(CDL) dan lesen PSV ",
+        "img": "none"
+      },
+      {
+        "ans": "Lesen Memandu Kompeten(CDL) dan lesen GDL ",
+        "img": "none"
+      },
+      {
+        "ans": "Lesen Memandu Kompeten(CDL) dan lesen Konduktor ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Pemegang Lesen Memandu Percubaan(PDL) diwajibkan untuk mempamerkan:",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Tanda ''L'' dan ''P'' di hadapan kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Plat ''P'' di hadapan dan belakang kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Plat ''L'' di hadapan dan belakang kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Apakah tindakan yang boleh dikenakan kepada pemegang Lesen Memandu Kompeten(CDL) di bawah Sistem KEJARA yang menjalani tiga kali penggantungan lesen memandu dalam tempoh 5 tahun?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Lesen Memandu Kompeten(CDL) digantung 12 bulan dan tindakan pembatalan lesen ",
+        "img": "none"
+      },
+      {
+        "ans": "Lesen Memandu Kompeten(CDL) digantung tidak melebihi 12 bulan ",
+        "img": "none"
+      },
+      {
+        "ans": "Lesen Memandu Kompeten(CDL) digantung tidak melebihi 6 bulan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Sila pilih tempat yang paling sesuai untuk meletakkan kenderaan:",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Tempat letak kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Perhentian bas ",
+        "img": "none"
+      },
+      {
+        "ans": "Berhampiran pili bomba ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Mengapakah pemandu dilarang meletakkan kenderaannya sesuka hati di kawasan lalu lintas yang sibuk?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mendatangkan bahaya, halangan atau kesusahan kepada pengguna jalan raya yang lain ",
+        "img": "none"
+      },
+      {
+        "ans": "Kenderaan lain sukar untuk mendapatakan tempat meletak kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memberikan ruang yang mencukupi kepada kenderaan lain untuk meletak kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Semasa lesen memandu digantung, apakah yang pemandu tidak boleh buat?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mencuci kenderaan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu di jalan raya ",
+        "img": "none"
+      },
+      {
+        "ans": "Menaiki kenderaan awam ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Di manakah plat ''P'' bagi motosikal dipamerkan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Di atas atau bawah lampu hadapan dan pada plat nombor pendaftaran motosikal ",
+        "img": "none"
+      },
+      {
+        "ans": "Di atas atau bawah lampu hadapan dan di atas atau bawah plat nombor pendaftaran motosikal ",
+        "img": "none"
+      },
+      {
+        "ans": "Pada lampu hadapan dan di atas atau bawah plat nombor pendaftaran motosikal ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Di manakah plat ''P'' bagi motokar dipamerkan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Di bahagian kiri cermin hadapan dan bahgian kanan cermin belakang ",
+        "img": "none"
+      },
+      {
+        "ans": "Di bahagian kiri cermin hadapan dan bahagian kiri cermin belakang ",
+        "img": "none"
+      },
+      {
+        "ans": "Di bahagian kanan cermin hadapan dan belakang kanan cermin belakang ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Berapakah tempoh bagi pemandu yang telah dibatalkan Lesen Memandu Percubaan(PDL) dilarang memandu, memegang atau memohon lesen memandu termasuk Lesen Belajar Memandu(LDL)?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "12 bulan ",
+        "img": "none"
+      },
+      {
+        "ans": "24 bulan ",
+        "img": "none"
+      },
+      {
+        "ans": "3 bulan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Apakah kelas lesen memandu yang tidak memerlukan tempoh percubaan selama dua(2) tahun?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "kelas D ",
+        "img": "none"
+      },
+      {
+        "ans": "Kelas C ",
+        "img": "none"
+      },
+      {
+        "ans": "Kelas E ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Apakah kesalahan yang dilakukan oleh pemandu kereta yang meletakkan kenderaannya di perhentian bas?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Meletakkan kenderaan di tempat yang dilarang ",
+        "img": "none"
+      },
+      {
+        "ans": "Menimbulkan kemarahan penumpang bas ",
+        "img": "none"
+      },
+      {
+        "ans": "Menimbulkan kemarahan pemandu bas ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Apakah tindakan yang boleh diambil ke atas pemegang Lesen Memandu Pecubaan(PDL) yang mengambil bahagian dalam lumba haram di bawah sistem KEJARA?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Lesen Memandu Percubaan digantung selama 3 bulan ",
+        "img": "none"
+      },
+      {
+        "ans": "Lesen Memandu Percubaan dibatalkan ",
+        "img": "none"
+      },
+      {
+        "ans": "Lesen Memandu Percubaan digantung selama 6 bulan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Apakah kesalahan di bawah Sistem KEJARA yang dibuat oleh pemegang Lesen Memandu Percubaan (PDL) akan dikenakan mata demerit?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Gagal mempamerkan Lesen Kenderaan Motor (LKM) ",
+        "img": "none"
+      },
+      {
+        "ans": "Tidak mematuhi lampu isyarat ",
+        "img": "none"
+      },
+      {
+        "ans": "Gagal membawa Lesen Belajar Memandu (LDL) ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Sila pilih kesalahan lalu lintas:",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memandu selepas lesen memandu tamat tempoh ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu semasa hujan ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan berhati-hati ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Manakah berikut merupakan kesalahan lalu lintas?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Memandu pada waktu malam ",
+        "img": "none"
+      },
+      {
+        "ans": "Berhenti di belakang garisan putih ",
+        "img": "none"
+      },
+      {
+        "ans": "Meletakkan kenderaan di garisan kuning ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Siapakah golong pemandu yang perlu memegang Lesen Memandu Percubaan(PDL)",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Mereka yang memohon lesen memandu bagi kenderaan motokar berat H dan I sahaja ",
+        "img": "none"
+      },
+      {
+        "ans": "Mereka yang memohon lesen memandu bagi kelas E, E1 dan E2 sahaja ",
+        "img": "none"
+      },
+      {
+        "ans": "Mereka yang memohon lesen memandu bagi kelas lesen A, A1, B, D, H dan I ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Adakah calon yang mempunyai Lesen Belajar Memandu(LDL) kelas D dibenarkan memandu di jalan raya?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Boleh, sekiranya cukup umur ",
+        "img": "none"
+      },
+      {
+        "ans": "Tidak boleh ",
+        "img": "none"
+      },
+      {
+        "ans": "Boleh, sekiranya ada pengajar ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Apakah jenis lesen yang dikeluarkan kepada pemandu Kenderaan Barangan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Lesen Memandu Kompeten(CDL) dan lesen PSV ",
+        "img": "none"
+      },
+      {
+        "ans": "Lesen Memandu Kompeten(CDL) dan lesen GDL ",
+        "img": "none"
+      },
+      {
+        "ans": "Lesen Memandu Kompeten(CDL) dan lesen Konduktor ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Apakah kelas lesen memandu yang layak dimohon apabila berumur 18 tahun?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Kelas B dan Kelas D ",
+        "img": "none"
+      },
+      {
+        "ans": "Kelas B sahaja ",
+        "img": "none"
+      },
+      {
+        "ans": "Kelas D sahaja ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Apakah tindakan yang harus diambil sekiranya terlanggar seorang kanak-kanak yang sedang melintas jalan?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Berhentikan kenderaan, berikan bantuan sewajarnya dan buat laporan polis dalam masa 24 jam ",
+        "img": "none"
+      },
+      {
+        "ans": "Tinggalkan nombor telefon kepada kanak-kanak tersebut dan teruskan perjalanan ",
+        "img": "none"
+      },
+      {
+        "ans": "Teruskan perjalanan ke destinasi anda dan rahsiakan kejadian tersebut ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Apakah syarat yang dikenakan kepada pemegang Lesen Belajar Memandu(LDL) kelas D?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Tidak boleh membawa penumpang atau muatan ",
+        "img": "none"
+      },
+      {
+        "ans": "Tidak boleh memandu secara bersendirian ",
+        "img": "none"
+      },
+      {
+        "ans": "Tidak perlu mempamerkan tanda pengenalan 'L' di hadapan dan belakang kenderaan ",
+        "img": "none"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Apakah kesalahan yang boleh memberi mata demerit kepada pemandu?",
+    "image": "none",
+    "mcq": [
+      {
+        "ans": "Menggunakan aplikasi panduan arah semasa memandu ",
+        "img": "none"
+      },
+      {
+        "ans": "Tidak mematuhi isyarat merah ",
+        "img": "none"
+      },
+      {
+        "ans": "Memandu dengan cermat dan bertimbang rasa ",
+        "img": "none"
+      }
+    ]
+  }
+]

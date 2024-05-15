@@ -1,0 +1,70 @@
+.Side {
+  /* border: 2px solid purple; */
+  background-color: whitesmoke;
+  filter: drop-shadow(12px 12px 10px rgb(0, 0, 0, 25%));
+  border-radius: 6px;
+  height: 90%;
+}
+
+/* All this must have width and height 100% 
+ to maximise parents preferences */
+.Side > .label,
+.Side > .wrapper {
+  padding: 1em 0;
+}
+
+.Side > .label {
+  /* border: 2px solid purple; */
+  border-radius: 4px;
+  background-color: var(--theme-color-g-6);
+  color: white;
+  text-indent: 10%;
+  font-weight: 700;
+  font-size: 1em;
+}
+.Side > .wrapper {
+  /*     border: 2px solid purple; */
+  width: 100%;
+  height: auto;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.Side > .wrapper > button {
+  border-radius: 6px;
+  width: 2.5em;
+  height: 2.5em;
+  margin: 1.2%;
+}
+
+/* Indicator of unanswered questions */
+.Side > .wrapper > .default,
+.Side > .wrapper > .active {
+  outline: none;
+}
+
+.Side > .wrapper > .default {
+  outline: 0.13em solid hsl(0, 0%, 0%, 0.25);
+  background-color: whitesmoke;
+}
+
+.Side > .wrapper > .focus {
+  outline: 0.13em solid hsl(0, 0%, 0%, 0.25);
+  background-color: gray;
+}
+
+.Side > .wrapper > .active {
+  background-color: rgb(64, 197, 64);
+}
+
+.Side > .wrapper > .default:hover {
+  color: black;
+  background-color: #f2f0e9;
+  border: 2px solid green;
+}
+.Side > .wrapper > .active:hover {
+  color: black;
+  background-color: lightgreen;
+}
