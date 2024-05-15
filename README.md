@@ -1,13 +1,14 @@
 # Custom MCQ System with React
 
 
-===A Custom MCQ (Multiple Choice Question) System=== built with React is an interactive application designed to manage, and take multiple-choice quizzes. 
+==A Custom MCQ (Multiple Choice Question) System== built with React is an interactive application designed to manage, and take multiple-choice quizzes. 
 
-This system includes :
--[x] Quiz Management: Admins can organize questions into quizzes, set time limits, and manage quiz availability.
--[x] User Interface : A responsive and user-friendly interface for quiz takers to answer questions, review their answers, and receive instant feedback.
--[x] Result Tracking: The system tracks user performance, providing detailed results and analytics.
+This system includes :<br/>
+- [x] Quiz Management: Admins can organize questions into quizzes, set time limits, and manage quiz availability.
+- [x] User Interface : A responsive and user-friendly interface for quiz takers to answer questions, review their answers, and receive instant feedback.
+- [x] Result Tracking: The system tracks user performance, providing detailed results and analytics.
 
+<br/>
 Preview:
 ![Preview Image of MCQ system](preview.png "Preview image")
 
